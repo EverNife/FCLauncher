@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="com.skcraft.creator-tools.main" target="1.8" />
+      <module name="com.skcraft.creator-tools.test" target="1.8" />
+      <module name="com.skcraft.launcher-bootstrap.main" target="1.6" />
+      <module name="com.skcraft.launcher-bootstrap.test" target="1.6" />
+      <module name="com.skcraft.launcher-builder.main" target="1.6" />
+      <module name="com.skcraft.launcher-builder.test" target="1.6" />
+      <module name="com.skcraft.launcher-fancy.main" target="1.6" />
+      <module name="com.skcraft.launcher-fancy.test" target="1.6" />
+      <module name="com.skcraft.launcher.main" target="1.6" />
+      <module name="com.skcraft.launcher.test" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

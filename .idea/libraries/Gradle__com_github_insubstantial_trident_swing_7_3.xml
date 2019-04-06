@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.insubstantial:trident:swing:7.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.insubstantial/trident/7.3/abb32556f8874b7985bb4034a9d23b75467390dc/trident-7.3-swing.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.insubstantial/trident/7.3/718a53d0dab982883c4538cff06ea945ef4e41b4/trident-7.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

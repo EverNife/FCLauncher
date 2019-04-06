@@ -1,0 +1,197 @@
+[18:32:09] [main/DEBUG] [FML/]: Injecting tracing printstreams for STDOUT/STDERR.
+[18:32:09] [main/INFO] [FML/]: Forge Mod Loader version 7.99.40.1614 for Minecraft 1.7.10 loading
+[18:32:09] [main/INFO] [FML/]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_201, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_201
+[18:32:09] [main/DEBUG] [FML/]: Java classpath at launch is C:\Users\Petrus\Desktop\Meus\workshop\workshop\Launcher\.\libraries\net\minecraftforge\forge\1.7.10-10.13.4.1614-1.7.10\forge-1.7.10-10.13.4.1614-1.7.10.jar;C:\Users\Petrus\Desktop\Meus\workshop\workshop\Launcher\.\libraries\net\minecraft\launchwrapper\1.12\launchwrapper-1.12.jar;C:\Users\Petrus\Desktop\Meus\workshop\workshop\Launcher\.\libraries\org\ow2\asm\asm-all\5.0.3\asm-all-5.0.3.jar;C:\Users\Petrus\Desktop\Meus\workshop\workshop\Launcher\.\libraries\com\typesafe\akka\akka-actor_2.11\2.3.3\akka-actor_2.11-2.3.3.jar;C:\Users\Petrus\Desktop\Meus\workshop\workshop\Launcher\.\libraries\com\typesafe\config\1.2.1\config-1.2.1.jar;C:\Users\Petrus\Desktop\Meus\workshop\workshop\Launcher\.\libraries\org\scala-lang\scala-actors-migration_2.11\1.1.0\scala-actors-migration_2.11-1.1.0.jar;C:\Users\Petrus\Desktop\Meus\workshop\workshop\Launcher\.\libraries\org\scala-lang\scala-compiler\2.11.1\scala-compiler-2.11.1.jar;C:\Users\Petrus\Desktop\Meus\workshop\workshop\Launcher\.\libraries\org\scala-lang\plugins\scala-continuations-library_2.11\1.0.2\scala-continuations-library_2.11-1.0.2.jar;C:\Users\Petrus\Desktop\Meus\workshop\workshop\Launcher\.\libraries\org\scala-lang\plugins\scala-continuations-plugin_2.11.1\1.0.2\scala-continuations-plugin_2.11.1-1.0.2.jar;C:\Users\Petrus\Desktop\Meus\workshop\workshop\Launcher\.\libraries\org\scala-lang\scala-library\2.11.1\scala-library-2.11.1.jar;C:\Users\Petrus\Desktop\Meus\workshop\workshop\Launcher\.\libraries\org\scala-lang\scala-parser-combinators_2.11\1.0.1\scala-parser-combinators_2.11-1.0.1.jar;C:\Users\Petrus\Desktop\Meus\workshop\workshop\Launcher\.\libraries\org\scala-lang\scala-reflect\2.11.1\scala-reflect-2.11.1.jar;C:\Users\Petrus\Desktop\Meus\workshop\workshop\Launcher\.\libraries\org\scala-lang\scala-swing_2.11\1.0.1\scala-swing_2.11-1.0.1.jar;C:\Users\Petrus\Desktop\Meus\workshop\workshop\Launcher\.\libraries\org\scala-lang\scala-xml_2.11\1.0.2\scala-xml_2.11-1.0.2.jar;C:\Users\Petrus\Desktop\Meus\workshop\workshop\Launcher\.\libraries\lzma\lzma\0.0.1\lzma-0.0.1.jar;C:\Users\Petrus\Desktop\Meus\workshop\workshop\Launcher\.\libraries\net\sf\jopt-simple\jopt-simple\4.5\jopt-simple-4.5.jar;C:\Users\Petrus\Desktop\Meus\workshop\workshop\Launcher\.\libraries\com\google\guava\guava\17.0\guava-17.0.jar;C:\Users\Petrus\Desktop\Meus\workshop\workshop\Launcher\.\libraries\org\apache\commons\commons-lang3\3.3.2\commons-lang3-3.3.2.jar;C:\Users\Petrus\Desktop\Meus\workshop\workshop\Launcher\.\libraries\com\mojang\netty\1.6\netty-1.6.jar;C:\Users\Petrus\Desktop\Meus\workshop\workshop\Launcher\.\libraries\com\mojang\realms\1.3.5\realms-1.3.5.jar;C:\Users\Petrus\Desktop\Meus\workshop\workshop\Launcher\.\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar;C:\Users\Petrus\Desktop\Meus\workshop\workshop\Launcher\.\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;C:\Users\Petrus\Desktop\Meus\workshop\workshop\Launcher\.\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;C:\Users\Petrus\Desktop\Meus\workshop\workshop\Launcher\.\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;C:\Users\Petrus\Desktop\Meus\workshop\workshop\Launcher\.\libraries\java3d\vecmath\1.3.1\vecmath-1.3.1.jar;C:\Users\Petrus\Desktop\Meus\workshop\workshop\Launcher\.\libraries\net\sf\trove4j\trove4j\3.0.3\trove4j-3.0.3.jar;C:\Users\Petrus\Desktop\Meus\workshop\workshop\Launcher\.\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar;C:\Users\Petrus\Desktop\Meus\workshop\workshop\Launcher\.\libraries\net\sf\jopt-simple\jopt-simple\4.5\jopt-simple-4.5.jar;C:\Users\Petrus\Desktop\Meus\workshop\workshop\Launcher\.\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar;C:\Users\Petrus\Desktop\Meus\workshop\workshop\Launcher\.\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar;C:\Users\Petrus\Desktop\Meus\workshop\workshop\Launcher\.\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar;C:\Users\Petrus\Desktop\Meus\workshop\workshop\Launcher\.\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar;C:\Users\Petrus\Desktop\Meus\workshop\workshop\Launcher\.\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar;C:\Users\Petrus\Desktop\Meus\workshop\workshop\Launcher\.\libraries\io\netty\netty-all\4.0.10.Final\netty-all-4.0.10.Final.jar;C:\Users\Petrus\Desktop\Meus\workshop\workshop\Launcher\.\libraries\com\google\guava\guava\15.0\guava-15.0.jar;C:\Users\Petrus\Desktop\Meus\workshop\workshop\Launcher\.\libraries\org\apache\commons\commons-lang3\3.1\commons-lang3-3.1.jar;C:\Users\Petrus\Desktop\Meus\workshop\workshop\Launcher\.\libraries\commons-io\commons-io\2.4\commons-io-2.4.jar;C:\Users\Petrus\Desktop\Meus\workshop\workshop\Launcher\.\libraries\commons-codec\commons-codec\1.9\commons-codec-1.9.jar;C:\Users\Petrus\Desktop\Meus\workshop\workshop\Launcher\.\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;C:\Users\Petrus\Desktop\Meus\workshop\workshop\Launcher\.\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;C:\Users\Petrus\Desktop\Meus\workshop\workshop\Launcher\.\libraries\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar;C:\Users\Petrus\Desktop\Meus\workshop\workshop\Launcher\.\libraries\com\mojang\authlib\1.5.21\authlib-1.5.21.jar;C:\Users\Petrus\Desktop\Meus\workshop\workshop\Launcher\.\libraries\org\apache\logging\log4j\log4j-api\2.0-beta9\log4j-api-2.0-beta9.jar;C:\Users\Petrus\Desktop\Meus\workshop\workshop\Launcher\.\libraries\org\apache\logging\log4j\log4j-core\2.0-beta9\log4j-core-2.0-beta9.jar;C:\Users\Petrus\Desktop\Meus\workshop\workshop\Launcher\.\libraries\org\lwjgl\lwjgl\lwjgl\2.9.1\lwjgl-2.9.1.jar;C:\Users\Petrus\Desktop\Meus\workshop\workshop\Launcher\.\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.1\lwjgl_util-2.9.1.jar;C:\Users\Petrus\Desktop\Meus\workshop\workshop\Launcher\.\libraries\tv\twitch\twitch\5.16\twitch-5.16.jar;C:\Users\Petrus\Desktop\Meus\workshop\workshop\Launcher\.\versions\1.7.10\1.7.10.jar
+[18:32:09] [main/DEBUG] [FML/]: Java library path at launch is C:\Users\Petrus\Desktop\Meus\workshop\workshop\Launcher\.\temp\extract\1548448326788
+[18:32:09] [main/DEBUG] [FML/]: Enabling runtime deobfuscation
+[18:32:09] [main/DEBUG] [FML/]: Instantiating coremod class FMLCorePlugin
+[18:32:09] [main/DEBUG] [FML/]: Added access transformer class cpw.mods.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
+[18:32:09] [main/DEBUG] [FML/]: Enqueued coremod FMLCorePlugin
+[18:32:09] [main/DEBUG] [FML/]: Instantiating coremod class FMLForgePlugin
+[18:32:09] [main/DEBUG] [FML/]: Added access transformer class net.minecraftforge.transformers.ForgeAccessTransformer to enqueued access transformers
+[18:32:09] [main/DEBUG] [FML/]: Enqueued coremod FMLForgePlugin
+[18:32:09] [main/DEBUG] [FML/]: All fundamental core mods are successfully located
+[18:32:09] [main/DEBUG] [FML/]: Attempting to load commandline specified mods, relative to C:\Users\Petrus\Desktop\Meus\workshop\workshop\Launcher\.\instances\finalcraft-dragonblock\minecraft
+[18:32:09] [main/DEBUG] [FML/]: Discovering coremods
+[18:32:09] [main/DEBUG] [FML/]: Examining for coremod candidacy [1.7.10]Better_Furnaces_V4.3.jar
+[18:32:09] [main/DEBUG] [FML/]: Not found coremod data in [1.7.10]Better_Furnaces_V4.3.jar
+[18:32:09] [main/DEBUG] [FML/]: Examining for coremod candidacy [1.7.10]bspkrsCore-universal-6.16.jar
+[18:32:09] [main/DEBUG] [FML/]: Not found coremod data in [1.7.10]bspkrsCore-universal-6.16.jar
+[18:32:09] [main/DEBUG] [FML/]: Examining for coremod candidacy Armourers-Workshop-1.7.10-0.48.3.jar
+[18:32:09] [main/DEBUG] [FML/]: Not found coremod data in Armourers-Workshop-1.7.10-0.48.3.jar
+[18:32:09] [main/DEBUG] [FML/]: Examining for coremod candidacy Avaritia-1.13.jar
+[18:32:09] [main/DEBUG] [FML/]: Not found coremod data in Avaritia-1.13.jar
+[18:32:09] [main/DEBUG] [FML/]: Examining for coremod candidacy Carpenter's Blocks v3.3.8.1 - MC 1.7.10.jar
+[18:32:09] [main/DEBUG] [FML/]: Not found coremod data in Carpenter's Blocks v3.3.8.1 - MC 1.7.10.jar
+[18:32:09] [main/DEBUG] [FML/]: Examining for coremod candidacy ChestTransporter-1.7.10-2.0.6.jar
+[18:32:09] [main/DEBUG] [FML/]: Not found coremod data in ChestTransporter-1.7.10-2.0.6.jar
+[18:32:09] [main/DEBUG] [FML/]: Examining for coremod candidacy CodeChickenCore-1.7.10-1.0.7.47-universal.jar
+[18:32:09] [main/TRACE] [FML/]: Adding CodeChickenCore-1.7.10-1.0.7.47-universal.jar to the list of known coremods, it will not be examined again
+[18:32:09] [main/DEBUG] [FML/]: Instantiating coremod class CodeChickenCorePlugin
+[18:32:09] [main/WARN] [FML/]: The coremod codechicken.core.launch.CodeChickenCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[18:32:09] [main/DEBUG] [FML/]: Added access transformer class codechicken.core.asm.CodeChickenAccessTransformer to enqueued access transformers
+[18:32:09] [main/DEBUG] [FML/]: Enqueued coremod CodeChickenCorePlugin
+[18:32:09] [main/DEBUG] [FML/]: Examining for coremod candidacy CodeChickenLib-1.7.10-1.1.3.138-universal.jar
+[18:32:09] [main/DEBUG] [FML/]: Not found coremod data in CodeChickenLib-1.7.10-1.1.3.138-universal.jar
+[18:32:09] [main/DEBUG] [FML/]: Examining for coremod candidacy CraftTweaker-1.7.10-3.0.13.jar
+[18:32:09] [main/DEBUG] [FML/]: Not found coremod data in CraftTweaker-1.7.10-3.0.13.jar
+[18:32:09] [main/DEBUG] [FML/]: Examining for coremod candidacy CustomNPCs_1.7.10d(29oct17).jar
+[18:32:09] [main/DEBUG] [FML/]: Not found coremod data in CustomNPCs_1.7.10d(29oct17).jar
+[18:32:09] [main/DEBUG] [FML/]: Examining for coremod candidacy Damage Indicators Mod.jar
+[18:32:09] [main/DEBUG] [FML/]: Not found coremod data in Damage Indicators Mod.jar
+[18:32:09] [main/DEBUG] [FML/]: Examining for coremod candidacy DragonBlockC-v1.4.59.jar
+[18:32:09] [main/DEBUG] [FML/]: Not found coremod data in DragonBlockC-v1.4.59.jar
+[18:32:09] [main/DEBUG] [FML/]: Examining for coremod candidacy DragonTorango-[1.7.10]-1.1.9b.jar
+[18:32:09] [main/DEBUG] [FML/]: Not found coremod data in DragonTorango-[1.7.10]-1.1.9b.jar
+[18:32:09] [main/DEBUG] [FML/]: Examining for coremod candidacy ezstorage-1.7.10-1.2.2-EverNifeEdition.jar
+[18:32:09] [main/DEBUG] [FML/]: Not found coremod data in ezstorage-1.7.10-1.2.2-EverNifeEdition.jar
+[18:32:09] [main/DEBUG] [FML/]: Examining for coremod candidacy InventoryTweaks-1.59-dev-152.jar
+[18:32:09] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in InventoryTweaks-1.59-dev-152.jar, it will be examined later for regular @Mod instances
+[18:32:09] [main/DEBUG] [FML/]: Instantiating coremod class FMLPlugin
+[18:32:09] [main/WARN] [FML/]: The coremod invtweaks.forge.asm.FMLPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[18:32:09] [main/DEBUG] [FML/]: Added access transformer class invtweaks.forge.asm.ITAccessTransformer to enqueued access transformers
+[18:32:09] [main/DEBUG] [FML/]: Enqueued coremod FMLPlugin
+[18:32:09] [main/DEBUG] [FML/]: Examining for coremod candidacy ironchest-1.7.10-6.0.60.741-universal.jar
+[18:32:09] [main/DEBUG] [FML/]: Not found coremod data in ironchest-1.7.10-6.0.60.741-universal.jar
+[18:32:09] [main/DEBUG] [FML/]: Examining for coremod candidacy JBRA-Client-v1.6.35.jar
+[18:32:09] [main/DEBUG] [FML/]: Not found coremod data in JBRA-Client-v1.6.35.jar
+[18:32:09] [main/DEBUG] [FML/]: Examining for coremod candidacy JFamilyC-v1.2.16.jar
+[18:32:09] [main/DEBUG] [FML/]: Not found coremod data in JFamilyC-v1.2.16.jar
+[18:32:09] [main/DEBUG] [FML/]: Examining for coremod candidacy JinRyuu's-HDSkins-Mod-1.7.10-v1.3.1.jar
+[18:32:09] [main/DEBUG] [FML/]: Not found coremod data in JinRyuu's-HDSkins-Mod-1.7.10-v1.3.1.jar
+[18:32:09] [main/DEBUG] [FML/]: Examining for coremod candidacy journeymap-1.7.10-5.1.4p2-unlimited.jar
+[18:32:09] [main/DEBUG] [FML/]: Not found coremod data in journeymap-1.7.10-5.1.4p2-unlimited.jar
+[18:32:09] [main/DEBUG] [FML/]: Examining for coremod candidacy JRMCore-v1.3.19.jar
+[18:32:09] [main/DEBUG] [FML/]: Not found coremod data in JRMCore-v1.3.19.jar
+[18:32:09] [main/DEBUG] [FML/]: Examining for coremod candidacy JYearsC-v1.2.4.jar
+[18:32:09] [main/DEBUG] [FML/]: Not found coremod data in JYearsC-v1.2.4.jar
+[18:32:09] [main/DEBUG] [FML/]: Examining for coremod candidacy MineTweakerRecipeMaker-1.7.10-1.1.0.11.jar
+[18:32:09] [main/DEBUG] [FML/]: Not found coremod data in MineTweakerRecipeMaker-1.7.10-1.1.0.11.jar
+[18:32:09] [main/DEBUG] [FML/]: Examining for coremod candidacy NotEnoughItems-1.7.10-1.0.5.120-universal.jar
+[18:32:09] [main/TRACE] [FML/]: Adding NotEnoughItems-1.7.10-1.0.5.120-universal.jar to the list of known coremods, it will not be examined again
+[18:32:09] [main/DEBUG] [FML/]: Instantiating coremod class NEICorePlugin
+[18:32:09] [main/WARN] [FML/]: The coremod codechicken.nei.asm.NEICorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[18:32:09] [main/DEBUG] [FML/]: Enqueued coremod NEICorePlugin
+[18:32:09] [main/DEBUG] [FML/]: Examining for coremod candidacy OptiFine_1.7.10_HD_U_D3.jar
+[18:32:09] [main/INFO] [FML/]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine_1.7.10_HD_U_D3.jar
+[18:32:09] [main/DEBUG] [FML/]: Examining for coremod candidacy SkinsDBC 1.0.4.jar
+[18:32:09] [main/DEBUG] [FML/]: Not found coremod data in SkinsDBC 1.0.4.jar
+[18:32:09] [main/DEBUG] [FML/]: Examining for coremod candidacy Waila-1.5.10_1.7.10.jar
+[18:32:09] [main/DEBUG] [FML/]: Not found coremod data in Waila-1.5.10_1.7.10.jar
+[18:32:09] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:32:09] [main/INFO] [LaunchWrapper/]: Loading tweak class name optifine.OptiFineForgeTweaker
+[18:32:09] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[18:32:09] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:32:09] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:32:09] [main/INFO] [LaunchWrapper/]: Calling tweak class optifine.OptiFineForgeTweaker
+[18:32:09] [main/INFO] [STDOUT/]: [optifine.OptiFineForgeTweaker:dbg:49]: OptiFineForgeTweaker: acceptOptions
+[18:32:09] [main/INFO] [STDOUT/]: [optifine.OptiFineForgeTweaker:dbg:49]: OptiFineForgeTweaker: injectIntoClassLoader
+[18:32:09] [main/INFO] [STDOUT/]: [optifine.OptiFineClassTransformer:dbg:275]: OptiFine ClassTransformer
+[18:32:09] [main/INFO] [STDOUT/]: [optifine.OptiFineClassTransformer:dbg:275]: OptiFine URL: file:/C:/Users/Petrus/Desktop/Meus/workshop/workshop/Launcher/instances/finalcraft-dragonblock/minecraft/mods/OptiFine_1.7.10_HD_U_D3.jar
+[18:32:09] [main/INFO] [STDOUT/]: [optifine.OptiFineClassTransformer:dbg:275]: OptiFine ZIP file: C:\Users\Petrus\Desktop\Meus\workshop\workshop\Launcher\instances\finalcraft-dragonblock\minecraft\mods\OptiFine_1.7.10_HD_U_D3.jar
+[18:32:09] [main/INFO] [STDOUT/]: [optifine.OptiFineClassTransformer:dbg:275]: OptiFine Version: OptiFine_1.7.10_HD_U_D3
+[18:32:09] [main/INFO] [STDOUT/]: [optifine.OptiFineClassTransformer:dbg:275]: Minecraft Version: 1.7.10
+[18:32:09] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:32:09] [main/DEBUG] [FML/]: Injecting coremod FMLCorePlugin {cpw.mods.fml.relauncher.FMLCorePlugin} class transformers
+[18:32:09] [main/TRACE] [FML/]: Registering transformer cpw.mods.fml.common.asm.transformers.MarkerTransformer
+[18:32:09] [main/TRACE] [FML/]: Registering transformer cpw.mods.fml.common.asm.transformers.SideTransformer
+[18:32:09] [main/TRACE] [FML/]: Registering transformer cpw.mods.fml.common.asm.transformers.EventSubscriptionTransformer
+[18:32:09] [main/DEBUG] [FML/]: Injection complete
+[18:32:09] [main/DEBUG] [FML/]: Running coremod plugin for FMLCorePlugin {cpw.mods.fml.relauncher.FMLCorePlugin}
+[18:32:09] [main/DEBUG] [FML/]: Running coremod plugin FMLCorePlugin
+[18:32:11] [main/DEBUG] [FML/]: Read 527 binary patches
+[18:32:11] [main/INFO] [FML/]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[18:32:11] [main/INFO] [FML/]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[18:32:11] [main/DEBUG] [FML/]: Coremod plugin class FMLCorePlugin run successfully
+[18:32:11] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:32:11] [main/DEBUG] [FML/]: Injecting coremod FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin} class transformers
+[18:32:11] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.classloading.FluidIdTransformer
+[18:32:11] [main/DEBUG] [FML/]: Injection complete
+[18:32:11] [main/DEBUG] [FML/]: Running coremod plugin for FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin}
+[18:32:11] [main/DEBUG] [FML/]: Running coremod plugin FMLForgePlugin
+[18:32:11] [main/DEBUG] [FML/]: Coremod plugin class FMLForgePlugin run successfully
+[18:32:11] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:32:11] [main/DEBUG] [FML/]: Injecting coremod CCCDeobfPlugin {codechicken.core.asm.MCPDeobfuscationTransformer$LoadPlugin} class transformers
+[18:32:11] [main/DEBUG] [FML/]: Injection complete
+[18:32:11] [main/DEBUG] [FML/]: Running coremod plugin for CCCDeobfPlugin {codechicken.core.asm.MCPDeobfuscationTransformer$LoadPlugin}
+[18:32:11] [main/DEBUG] [FML/]: Running coremod plugin CCCDeobfPlugin
+[18:32:11] [main/DEBUG] [FML/]: Coremod plugin class LoadPlugin run successfully
+[18:32:11] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:32:11] [main/DEBUG] [FML/]: Injecting coremod CodeChickenCorePlugin {codechicken.core.launch.CodeChickenCorePlugin} class transformers
+[18:32:12] [main/TRACE] [FML/]: Registering transformer codechicken.lib.asm.ClassHeirachyManager
+[18:32:12] [main/TRACE] [FML/]: Registering transformer codechicken.core.asm.InterfaceDependancyTransformer
+[18:32:12] [main/TRACE] [FML/]: Registering transformer codechicken.core.asm.TweakTransformer
+[18:32:12] [main/TRACE] [FML/]: Registering transformer codechicken.core.asm.DelegatedTransformer
+[18:32:12] [main/TRACE] [FML/]: Registering transformer codechicken.core.asm.DefaultImplementationTransformer
+[18:32:12] [main/DEBUG] [FML/]: Injection complete
+[18:32:12] [main/DEBUG] [FML/]: Running coremod plugin for CodeChickenCorePlugin {codechicken.core.launch.CodeChickenCorePlugin}
+[18:32:12] [main/DEBUG] [FML/]: Running coremod plugin CodeChickenCorePlugin
+[18:32:12] [main/DEBUG] [FML/]: Coremod plugin class CodeChickenCorePlugin run successfully
+[18:32:12] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:32:12] [main/DEBUG] [FML/]: Injecting coremod FMLPlugin {invtweaks.forge.asm.FMLPlugin} class transformers
+[18:32:12] [main/TRACE] [FML/]: Registering transformer invtweaks.forge.asm.ContainerTransformer
+[18:32:12] [main/DEBUG] [FML/]: Injection complete
+[18:32:12] [main/DEBUG] [FML/]: Running coremod plugin for FMLPlugin {invtweaks.forge.asm.FMLPlugin}
+[18:32:12] [main/DEBUG] [FML/]: Running coremod plugin FMLPlugin
+[18:32:12] [main/DEBUG] [FML/]: Coremod plugin class FMLPlugin run successfully
+[18:32:12] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:32:12] [main/DEBUG] [FML/]: Injecting coremod NEICorePlugin {codechicken.nei.asm.NEICorePlugin} class transformers
+[18:32:12] [main/TRACE] [FML/]: Registering transformer codechicken.nei.asm.NEITransformer
+[18:32:12] [main/DEBUG] [FML/]: Injection complete
+[18:32:12] [main/DEBUG] [FML/]: Running coremod plugin for NEICorePlugin {codechicken.nei.asm.NEICorePlugin}
+[18:32:12] [main/DEBUG] [FML/]: Running coremod plugin NEICorePlugin
+[18:32:12] [main/DEBUG] [FML/]: Coremod plugin class NEICorePlugin run successfully
+[18:32:12] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[18:32:12] [main/DEBUG] [FML/]: Loaded 57 rules from AccessTransformer config file fml_at.cfg
+[18:32:12] [main/DEBUG] [FML/]: Loaded 89 rules from AccessTransformer config file forge_at.cfg
+[18:32:12] [main/DEBUG] [FML/]: Loaded 57 rules from AccessTransformer config file fml_at.cfg
+[18:32:12] [main/DEBUG] [FML/]: Loaded 9 rules from AccessTransformer config file invtweaks_at.cfg
+[18:32:12] [main/DEBUG] [FML/]: Loaded 11 rules from AccessTransformer mod jar file C:\Users\Petrus\Desktop\Meus\workshop\workshop\Launcher\instances\finalcraft-dragonblock\minecraft\mods\NotEnoughItems-1.7.10-1.0.5.120-universal.jar!META-INF/nei_at.cfg
+
+[18:32:12] [main/DEBUG] [FML/]: Validating minecraft
+[18:32:12] [main/DEBUG] [FML/]: Minecraft validated, launching...
+[18:32:12] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.TerminalTweaker
+[18:32:12] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.TerminalTweaker
+[18:32:12] [main/INFO] [STDOUT/]: [optifine.OptiFineForgeTweaker:dbg:49]: OptiFineForgeTweaker: getLaunchArguments
+[18:32:12] [main/INFO] [LaunchWrapper/]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[18:32:13] [main/DEBUG] [CCL ASM/]: Inserted super call into [bfo.e()V]
+[18:32:13] [main/DEBUG] [CCL ASM/]: Writing method [bex.a(Lbao;II)V]
+[18:32:13] [main/DEBUG] [CCL ASM/]: Writing method [bex.l()V]
+[18:32:13] [main/DEBUG] [CCL ASM/]: Writing method [bex.l()V]
+[18:32:13] [main/DEBUG] [CCL ASM/]: Writing method [bex.l()V]
+[18:32:13] [main/DEBUG] [CCL ASM/]: Writing method [bex.k()V]
+[18:32:13] [main/DEBUG] [CCL ASM/]: Writing method [bex.public_func_73869_a(CI)V]
+[18:32:13] [main/DEBUG] [CCL ASM/]: Writing method [bex.public_func_146984_a(Laay;III)V]
+[18:32:13] [main/DEBUG] [CCL ASM/]: Injecting before method [bex.a(IIF)V]
+[18:32:13] [main/DEBUG] [CCL ASM/]: Injecting after method [bex.a(IIF)V] @ 138 - 140
+[18:32:13] [main/DEBUG] [CCL ASM/]: Injecting after method [bex.a(IIF)V] @ 220 - 225
+[18:32:13] [main/DEBUG] [CCL ASM/]: Replacing method [bex.a(IIF)V] @ 444 - 470
+[18:32:13] [main/DEBUG] [CCL ASM/]: Replacing method [bex.a(Ladd;IILjava/lang/String;)V] @ 9 - 10
+[18:32:13] [main/DEBUG] [CCL ASM/]: Replacing method [bex.a(Ladd;IILjava/lang/String;)V] @ 14 - 15
+[18:32:13] [main/DEBUG] [CCL ASM/]: Replacing method [bex.a(Laay;)V] @ 298 - 323
+[18:32:13] [main/DEBUG] [CCL ASM/]: Injecting before method [bex.a(III)V]
+[18:32:13] [main/DEBUG] [CCL ASM/]: Replacing method [bex.a(III)V] @ 259 - 260
+[18:32:13] [main/DEBUG] [CCL ASM/]: Replacing method [bex.a(III)V] @ 331 - 332
+[18:32:13] [main/DEBUG] [CCL ASM/]: Replacing method [bex.a(IIIJ)V] @ 98 - 99
+[18:32:13] [main/DEBUG] [CCL ASM/]: Replacing method [bex.a(IIIJ)V] @ 107 - 108
+[18:32:13] [main/DEBUG] [CCL ASM/]: Replacing method [bex.a(IIIJ)V] @ 118 - 119
+[18:32:13] [main/DEBUG] [CCL ASM/]: Replacing method [bex.b(III)V] @ 158 - 159
+[18:32:13] [main/DEBUG] [CCL ASM/]: Replacing method [bex.b(III)V] @ 168 - 169
+[18:32:13] [main/DEBUG] [CCL ASM/]: Replacing method [bex.b(III)V] @ 287 - 288
+[18:32:13] [main/DEBUG] [CCL ASM/]: Replacing method [bex.b(III)V] @ 295 - 296
+[18:32:13] [main/DEBUG] [CCL ASM/]: Replacing method [bex.b(III)V] @ 314 - 315
+[18:32:13] [main/DEBUG] [CCL ASM/]: Replacing method [bex.b(III)V] @ 424 - 425
+[18:32:13] [main/DEBUG] [CCL ASM/]: Replacing method [bex.b(III)V] @ 454 - 455
+[18:32:13] [main/DEBUG] [CCL ASM/]: Replacing method [bex.b(III)V] @ 468 - 469
+[18:32:13] [main/DEBUG] [CCL ASM/]: Replacing method [bex.b(III)V] @ 497 - 498
+[18:32:13] [main/DEBUG] [CCL ASM/]: Replacing method [bex.b(III)V] @ 557 - 559
+[18:32:13] [main/DEBUG] [CCL ASM/]: Replacing method [bex.a(CI)V] @ 54 - 55
+[18:32:13] [main/DEBUG] [CCL ASM/]: Replacing method [bex.a(CI)V] @ 84 - 85
+[18:32:13] [main/DEBUG] [CCL ASM/]: Replacing method [bex.b(I)Z] @ 41 - 42
+[18:32:13] [main/DEBUG] [CCL ASM/]: Writing method [bex.managerHandleMouseClick(Laay;III)V]
+[18:32:13] [main/DEBUG] [CCL ASM/]: Injecting after method [bex.a(IIIJ)V] @ 14 - 15
+[18:32:13] [main/DEBUG] [CCL ASM/]: Injecting before method [bex.b(III)V]
+[18:32:13] [main/DEBUG] [CCL ASM/]: NEI: Injecting mouseUp call
+[18:32:13] [main/DEBUG] [CCL ASM/]: Replacing method [bex.a(Laay;III)V] @ 10 - 26
+[18:32:13] [main/DEBUG] [CCL ASM/]: Injecting before method [bex.a(CI)V]
+[18:32:13] [main/DEBUG] [CCL ASM/]: Injecting after method [bex.e()V] @ 0 - 4

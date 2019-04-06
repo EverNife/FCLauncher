@@ -1,0 +1,1758 @@
+{
+  "e.song.overlord": {
+    "category": "player",
+    "sounds": ["creatures/anime/e.song.overlord"]
+  },
+  "e.song.Dota.Crob.Spell": {
+    "category": "player",
+    "sounds": ["creatures/dota/e.song.Dota.Crob.Spell"]
+  },
+  "e.song.Dota.Crob.Spell2": {
+    "category": "player",
+    "sounds": ["creatures/dota/e.song.Dota.Crob.Spell2"]
+  },
+  "e.song.Dota.Crob.Ultimate": {
+    "category": "player",
+    "sounds": ["creatures/dota/e.song.Dota.Crob.Ultimate"]
+  },
+  "e.song.Dota.Ember.Spell": {
+    "category": "player",
+    "sounds": ["creatures/dota/e.song.Dota.Ember.Spell"]
+  },
+  "e.song.Dota.Ember.Spell2": {
+    "category": "player",
+    "sounds": ["creatures/dota/e.song.Dota.Ember.Spell2"]
+  },
+  "e.song.Dota.MonkeyKing.Cast": {
+    "category": "player",
+    "sounds": ["creatures/dota/e.song.Dota.MonkeyKing.Cast"]
+  },
+  "e.song.Dota.MonkeyKing.Cast2": {
+    "category": "player",
+    "sounds": ["creatures/dota/e.song.Dota.MonkeyKing.Cast2"]
+  },
+  "e.song.Dota.MonkeyKing.Hit": {
+    "category": "player",
+    "sounds": ["creatures/dota/e.song.Dota.MonkeyKing.Hit"]
+  },
+  "e.song.Dota.MonkeyKing.UltimateFull": {
+    "category": "player",
+    "sounds": ["creatures/dota/e.song.Dota.MonkeyKing.UltimateFull"]
+  },
+  "e.song.Dota.MonkeyKing.UltimatePreCast": {
+    "category": "player",
+    "sounds": ["creatures/dota/e.song.Dota.MonkeyKing.UltimatePreCast"]
+  },
+  "e.song.Dota.Necro.Spell": {
+    "category": "player",
+    "sounds": ["creatures/dota/e.song.Dota.Necro.Spell"]
+  },
+  "e.song.Dota.Necro.UltimateFull": {
+    "category": "player",
+    "sounds": ["creatures/dota/e.song.Dota.Necro.UltimateFull"]
+  },
+  "e.song.Dota.PitLord.Reveal": {
+    "category": "player",
+    "sounds": ["creatures/dota/e.song.Dota.PitLord.Reveal"]
+  },
+  "e.song.Dota.Pugna.Spell": {
+    "category": "player",
+    "sounds": ["creatures/dota/e.song.Dota.Pugna.Spell"]
+  },
+  "e.song.Dota.ShadowFiend.Death": {
+    "category": "player",
+    "sounds": ["creatures/dota/e.song.Dota.ShadowFiend.Death"]
+  },
+  "e.song.Dota.ShadowFiend.UltimateFull": {
+    "category": "player",
+    "sounds": ["creatures/dota/e.song.Dota.ShadowFiend.UltimateFull"]
+  },
+  "e.song.Dota.Spectre.Adaga": {
+    "category": "player",
+    "sounds": ["creatures/dota/e.song.Dota.Spectre.Adaga"]
+  },
+  "e.song.Dota.Spectre.UltimateFull": {
+    "category": "player",
+    "sounds": ["creatures/dota/e.song.Dota.Spectre.UltimateFull"]
+  },
+  "e.song.Dota.Zeus.UltimateFull": {
+    "category": "player",
+    "sounds": ["creatures/dota/e.song.Dota.Zeus.UltimateFull"]
+  },
+  "e.song.Dota.Zeus.UltimateFull2": {
+    "category": "player",
+    "sounds": ["creatures/dota/e.song.Dota.Zeus.UltimateFull2"]
+  },
+  "e.dota.SkeletonKing_MortalStrike1": {
+    "category": "player",
+    "sounds": ["creatures/dota/e.dota.SkeletonKing_MortalStrike1"]
+  },
+  "e.dota.SkeletonKing_MortalStrike2": {
+    "category": "player",
+    "sounds": ["creatures/dota/e.dota.SkeletonKing_MortalStrike2"]
+  },
+  "e.dota.SkeletonKing_Reincarnation1": {
+    "category": "player",
+    "sounds": ["creatures/dota/e.dota.SkeletonKing_Reincarnation1"]
+  },
+  "e.dota.SkeletonKing_Reincarnation2": {
+    "category": "player",
+    "sounds": ["creatures/dota/e.dota.SkeletonKing_Reincarnation2"]
+  },
+  "e.song.ichigo": {
+    "category": "player",
+    "sounds": ["creatures/anime/e.song.ichigo"]
+  },
+  "e.song.Guardian.CastleOfStone": {
+    "category": "player",
+    "sounds": ["creatures/anime/e.song.Guardian.CastleOfStone"]
+  },
+  "e.song.Guardian.FortresStance": {
+    "category": "player",
+    "sounds": ["creatures/anime/e.song.Guardian.FortresStance"]
+  },
+  "e.song.FairyBlue.HeartbeatHealing": {
+    "category": "player",
+    "sounds": ["creatures/anime/e.song.FairyBlue.HeartbeatHealing"]
+  },
+  "e.song.Guardian.Anchor_Howl": {
+    "category": "player",
+    "sounds": ["creatures/anime/e.song.Guardian.Anchor_Howl"]
+  },
+  "e.misc.scare": {
+    "category": "player",
+    "sounds": ["creatures/misc/e.misc.scare"]
+  },
+  "e.misc.midas": {
+    "category": "player",
+    "sounds": ["creatures/misc/e.misc.midas"]
+  },
+  "e.misc.applause": {
+    "category": "player",
+    "sounds": ["creatures/misc/e.misc.applause"]
+  },
+  "e.misc.pageflip": {
+    "category": "player",
+    "sounds": ["creatures/misc/e.misc.pageflip"]
+  },
+  "e.misc.pageopen": {
+    "category": "player",
+    "sounds": ["creatures/misc/e.misc.pageopen"]
+  },
+  "e.misc.teleport": {
+    "category": "player",
+    "sounds": ["creatures/misc/e.misc.teleport"]
+  },
+  "e.misc.heal": {
+    "category": "player",
+    "sounds": ["creatures/misc/e.misc.heal"]
+  },
+  "e.song.goblin_damaged01": {
+    "category": "player",
+    "sounds": ["creatures/goblins/e.song.goblin_damaged01"]
+  },
+  "e.song.goblin_damaged02": {
+    "category": "player",
+    "sounds": ["creatures/goblins/e.song.goblin_damaged02"]
+  },
+  "e.song.goblin_death01": {
+    "category": "player",
+    "sounds": ["creatures/goblins/e.song.goblin_death01"]
+  },
+  "e.song.goblin_death02": {
+    "category": "player",
+    "sounds": ["creatures/goblins/e.song.goblin_death02"]
+  },
+  "e.song.goblin_hurting01": {
+    "category": "player",
+    "sounds": ["creatures/goblins/e.song.goblin_hurting01"]
+  },
+  "e.song.goblin_hurting02": {
+    "category": "player",
+    "sounds": ["creatures/goblins/e.song.goblin_hurting02"]
+  },
+  "e.song.music.DunkaDunka": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "music/e.song.music.DunkaDunka",
+        "stream": true
+      }]
+  },
+  "e.song.music.DBCintro2": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "music/e.song.music.DBCintro2",
+        "stream": true
+      }]
+  },
+  "e.song.music.Akatsuki": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "music/e.song.music.Akatsuki",
+        "stream": true
+      }]
+  },
+  "e.song.music.Medieval.BlackWolf": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "music/e.song.music.Medieval.BlackWolf",
+        "stream": true
+      }]
+  },
+  "e.song.music.MagoImplacavel": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "music/e.song.music.MagoImplacavel",
+        "stream": true
+      }]
+  },
+  "e.song.music.MagoSemiImplacavel": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "music/e.song.music.MagoSemiImplacavel",
+        "stream": true
+      }]
+  },
+  "e.song.music.SadViolin": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "music/e.song.music.SadViolin",
+        "stream": true
+      }]
+  },
+  "e.song.music.NosVamosPraPrisao": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "music/e.song.music.NosVamosPraPrisao",
+        "stream": true
+      }]
+  },
+  "e.song.music.HomemSer": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "music/e.song.music.HomemSer",
+        "stream": true
+      }]
+  },
+  "e.song.music.excalibur": {
+    "category": "player",
+    "sounds": ["music/e.song.music.excalibur"]
+  },
+  "e.song.music.Medieval.Camelot": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "music/e.song.music.Medieval.Camelot",
+        "stream": true
+      }]
+  },
+  "e.song.music.Flauta": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "music/e.song.music.Flauta",
+        "stream": true
+      }]
+  },
+  "e.song.music.Flauta2": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "music/e.song.music.Flauta2",
+        "stream": true
+      }]
+  },
+  "e.song.music.YouShallNotPass": {
+    "category": "player",
+    "sounds": ["music/e.song.music.YouShallNotPass"]
+  },
+  "e.song.music.TheDragonbornComes": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "music/e.song.music.TheDragonbornComes",
+        "stream": true
+      }]
+  },
+  "e.song.custom_drink": {
+    "category": "player",
+    "sounds": ["creatures/custom/e.song.custom_drink"]
+  },
+  "e.song.custom_drink2": {
+    "category": "player",
+    "sounds": ["creatures/custom/e.song.custom_drink2"]
+  },
+  "e.song.custom_drink3": {
+    "category": "player",
+    "sounds": ["creatures/custom/e.song.custom_drink3"]
+  },
+  "e.dota.Akasha_Sonic_Wave": {
+    "category": "player",
+    "sounds": ["creatures/dota/e.dota.Akasha_Sonic_Wave"]
+  },
+  "e.dota.Axe_Berserkers_Call": {
+    "category": "player",
+    "sounds": ["creatures/dota/e.dota.Axe_Berserkers_Call"]
+  },
+  "e.dota.Balanar_Darkness": {
+    "category": "player",
+    "sounds": ["creatures/dota/e.dota.Balanar_Darkness"]
+  },
+  "e.dota.Bara_Charge": {
+    "category": "player",
+    "sounds": ["creatures/dota/e.dota.Bara_Charge"]
+  },
+  "e.dota.Bara_Empowering_Haste": {
+    "category": "player",
+    "sounds": ["creatures/dota/e.dota.Bara_Empowering_Haste"]
+  },
+  "e.dota.Keeper_Chakra_Magic": {
+    "category": "player",
+    "sounds": ["creatures/dota/e.dota.Keeper_Chakra_Magic"]
+  },
+  "e.dota.Legion_Heal": {
+    "category": "player",
+    "sounds": ["creatures/dota/e.dota.Legion_Heal"]
+  },
+  "e.dota.Lycan_Summon_Wolves": {
+    "category": "player",
+    "sounds": ["creatures/dota/e.dota.Lycan_Summon_Wolves"]
+  },
+  "e.dota.Lycan_Ult": {
+    "category": "player",
+    "sounds": ["creatures/dota/e.dota.Lycan_Ult"]
+  },
+  "e.dota.Omni_Purification": {
+    "category": "player",
+    "sounds": ["creatures/dota/e.dota.Omni_Purification"]
+  },
+  "e.dota.Silencer_Global_Silence": {
+    "category": "player",
+    "sounds": ["creatures/dota/e.dota.Silencer_Global_Silence"]
+  },
+  "e.dota.Silencer_Last_Word": {
+    "category": "player",
+    "sounds": ["creatures/dota/e.dota.Silencer_Last_Word"]
+  },
+  "e.item.BowPullBack1": {
+    "category": "player",
+    "sounds": ["item/e.item.BowPullBack1"]
+  },
+  "e.item.BowRelease1": {
+    "category": "player",
+    "sounds": ["item/e.item.BowRelease1"]
+  },
+  "e.item.BowRelease2": {
+    "category": "player",
+    "sounds": ["item/e.item.BowRelease2"]
+  },
+  "e.item.GunFire01": {
+    "category": "player",
+    "sounds": ["item/e.item.GunFire01"]
+  },
+  "e.item.GunFire02": {
+    "category": "player",
+    "sounds": ["item/e.item.GunFire01"]
+  },
+  "e.item.GunLoad01": {
+    "category": "player",
+    "sounds": ["item/e.item.GunLoad01"]
+  },
+  "e.item.HornEvil": {
+    "category": "player",
+    "sounds": ["item/e.item.HornEvil"]
+  },
+  "e.item.HornGood": {
+    "category": "player",
+    "sounds": ["item/e.item.HornGood"]
+  },
+  "e.item.Siren": {
+    "category": "player",
+    "sounds": ["item/e.item.Siren"]
+  },
+  "e.npc.HumanFemaleOfficialNPCGreeting01": {
+    "category": "player",
+    "sounds": ["npc/HumanFemaleOfficialNPC/e.npc.HumanFemaleOfficialNPCGreeting01"]
+  },
+  "e.npc.HumanFemaleOfficialNPCGreeting02": {
+    "category": "player",
+    "sounds": ["npc/HumanFemaleOfficialNPC/e.npc.HumanFemaleOfficialNPCGreeting02"]
+  },
+  "e.npc.HumanFemaleOfficialNPCGreeting03": {
+    "category": "player",
+    "sounds": ["npc/HumanFemaleOfficialNPC/e.npc.HumanFemaleOfficialNPCGreeting03"]
+  },
+  "e.npc.HumanFemaleOfficialNPCGreeting04": {
+    "category": "player",
+    "sounds": ["npc/HumanFemaleOfficialNPC/e.npc.HumanFemaleOfficialNPCGreeting04"]
+  },
+  "e.npc.HumanFemaleOfficialNPCGreeting05": {
+    "category": "player",
+    "sounds": ["npc/HumanFemaleOfficialNPC/e.npc.HumanFemaleOfficialNPCGreeting05"]
+  },
+  "e.npc.HumanFemaleOfficialNPCGreeting06": {
+    "category": "player",
+    "sounds": ["npc/HumanFemaleOfficialNPC/e.npc.HumanFemaleOfficialNPCGreeting06"]
+  },
+  "e.npc.HumanFemaleOfficialNPCVendor01": {
+    "category": "player",
+    "sounds": ["npc/HumanFemaleOfficialNPC/e.npc.HumanFemaleOfficialNPCVendor01"]
+  },
+  "e.npc.HumanFemaleOfficialNPCVendor02": {
+    "category": "player",
+    "sounds": ["npc/HumanFemaleOfficialNPC/e.npc.HumanFemaleOfficialNPCVendor02"]
+  },
+  "e.npc.HumanFemaleOfficialNPCVendor03": {
+    "category": "player",
+    "sounds": ["npc/HumanFemaleOfficialNPC/e.npc.HumanFemaleOfficialNPCVendor03"]
+  },
+  "e.npc.HumanFemaleOfficialNPCVendor04": {
+    "category": "player",
+    "sounds": ["npc/HumanFemaleOfficialNPC/e.npc.HumanFemaleOfficialNPCVendor04"]
+  },
+  "e.npc.HumanFemaleStandardNPCFarewell01": {
+    "category": "player",
+    "sounds": ["npc/HumanFemaleStandardNPC/e.npc.HumanFemaleStandardNPCFarewell01"]
+  },
+  "e.npc.HumanFemaleStandardNPCFarewell02": {
+    "category": "player",
+    "sounds": ["npc/HumanFemaleStandardNPC/e.npc.HumanFemaleStandardNPCFarewell02"]
+  },
+  "e.npc.HumanFemaleStandardNPCFarewell03": {
+    "category": "player",
+    "sounds": ["npc/HumanFemaleStandardNPC/e.npc.HumanFemaleStandardNPCFarewell03"]
+  },
+  "e.npc.HumanFemaleStandardNPCFarewell04": {
+    "category": "player",
+    "sounds": ["npc/HumanFemaleStandardNPC/e.npc.HumanFemaleStandardNPCFarewell04"]
+  },
+  "e.npc.HumanFemaleStandardNPCGreeting01": {
+    "category": "player",
+    "sounds": ["npc/HumanFemaleStandardNPC/e.npc.HumanFemaleStandardNPCGreeting01"]
+  },
+  "e.npc.HumanFemaleStandardNPCGreeting02": {
+    "category": "player",
+    "sounds": ["npc/HumanFemaleStandardNPC/e.npc.HumanFemaleStandardNPCGreeting02"]
+  },
+  "e.npc.HumanFemaleStandardNPCGreeting03": {
+    "category": "player",
+    "sounds": ["npc/HumanFemaleStandardNPC/e.npc.HumanFemaleStandardNPCGreeting03"]
+  },
+  "e.npc.HumanFemaleStandardNPCGreeting04": {
+    "category": "player",
+    "sounds": ["npc/HumanFemaleStandardNPC/e.npc.HumanFemaleStandardNPCGreeting04"]
+  },
+  "e.npc.HumanFemaleStandardNPCGreeting05": {
+    "category": "player",
+    "sounds": ["npc/HumanFemaleStandardNPC/e.npc.HumanFemaleStandardNPCGreeting05"]
+  },
+  "e.npc.HumanFemaleStandardNPCPissed01": {
+    "category": "player",
+    "sounds": ["npc/HumanFemaleStandardNPC/e.npc.HumanFemaleStandardNPCPissed01"]
+  },
+  "e.npc.HumanFemaleStandardNPCPissed02": {
+    "category": "player",
+    "sounds": ["npc/HumanFemaleStandardNPC/e.npc.HumanFemaleStandardNPCPissed02"]
+  },
+  "e.npc.HumanFemaleStandardNPCPissed03": {
+    "category": "player",
+    "sounds": ["npc/HumanFemaleStandardNPC/e.npc.HumanFemaleStandardNPCPissed03"]
+  },
+  "e.npc.HumanFemaleStandardNPCVendor01": {
+    "category": "player",
+    "sounds": ["npc/HumanFemaleStandardNPC/e.npc.HumanFemaleStandardNPCVendor01"]
+  },
+  "e.npc.HumanFemaleStandardNPCVendor02": {
+    "category": "player",
+    "sounds": ["npc/HumanFemaleStandardNPC/e.npc.HumanFemaleStandardNPCVendor02"]
+  },
+  "e.npc.HumanFemaleStandardNPCVendor03": {
+    "category": "player",
+    "sounds": ["npc/HumanFemaleStandardNPC/e.npc.HumanFemaleStandardNPCVendor03"]
+  },
+  "e.npc.HumanFemaleStandardNPCVendor04": {
+    "category": "player",
+    "sounds": ["npc/HumanFemaleStandardNPC/e.npc.HumanFemaleStandardNPCVendor04"]
+  },
+  "e.npc.HumanFemaleStandardNPCVendor05": {
+    "category": "player",
+    "sounds": ["npc/HumanFemaleStandardNPC/e.npc.HumanFemaleStandardNPCVendor05"]
+  },
+  "e.npc.HumanFemaleWarriorNPCFarewell01": {
+    "category": "player",
+    "sounds": ["npc/HumanFemaleWarriorNPC/e.npc.HumanFemaleWarriorNPCFarewell01"]
+  },
+  "e.npc.HumanFemaleWarriorNPCFarewell02": {
+    "category": "player",
+    "sounds": ["npc/HumanFemaleWarriorNPC/e.npc.HumanFemaleWarriorNPCFarewell02"]
+  },
+  "e.npc.HumanFemaleWarriorNPCFarewell03": {
+    "category": "player",
+    "sounds": ["npc/HumanFemaleWarriorNPC/e.npc.HumanFemaleWarriorNPCFarewell03"]
+  },
+  "e.npc.HumanFemaleWarriorNPCFarewell04": {
+    "category": "player",
+    "sounds": ["npc/HumanFemaleWarriorNPC/e.npc.HumanFemaleWarriorNPCFarewell04"]
+  },
+  "e.npc.HumanFemaleWarriorNPCFarewell05": {
+    "category": "player",
+    "sounds": ["npc/HumanFemaleWarriorNPC/e.npc.HumanFemaleWarriorNPCFarewell05"]
+  },
+  "e.npc.HumanFemaleWarriorNPCGreeting01": {
+    "category": "player",
+    "sounds": ["npc/HumanFemaleWarriorNPC/e.npc.HumanFemaleWarriorNPCGreeting01"]
+  },
+  "e.npc.HumanFemaleWarriorNPCGreeting02": {
+    "category": "player",
+    "sounds": ["npc/HumanFemaleWarriorNPC/e.npc.HumanFemaleWarriorNPCGreeting02"]
+  },
+  "e.npc.HumanFemaleWarriorNPCGreeting03": {
+    "category": "player",
+    "sounds": ["npc/HumanFemaleWarriorNPC/e.npc.HumanFemaleWarriorNPCGreeting03"]
+  },
+  "e.npc.HumanFemaleWarriorNPCGreeting04": {
+    "category": "player",
+    "sounds": ["npc/HumanFemaleWarriorNPC/e.npc.HumanFemaleWarriorNPCGreeting04"]
+  },
+  "e.npc.HumanFemaleWarriorNPCGreeting05": {
+    "category": "player",
+    "sounds": ["npc/HumanFemaleWarriorNPC/e.npc.HumanFemaleWarriorNPCGreeting05"]
+  },
+  "e.npc.HumanFemaleWarriorNPCGreeting06": {
+    "category": "player",
+    "sounds": ["npc/HumanFemaleWarriorNPC/e.npc.HumanFemaleWarriorNPCGreeting06"]
+  },
+  "e.npc.HumanFemaleWarriorNPCPissed01": {
+    "category": "player",
+    "sounds": ["npc/HumanFemaleWarriorNPC/e.npc.HumanFemaleWarriorNPCPissed01"]
+  },
+  "e.npc.HumanFemaleWarriorNPCPissed02": {
+    "category": "player",
+    "sounds": ["npc/HumanFemaleWarriorNPC/e.npc.HumanFemaleWarriorNPCPissed02"]
+  },
+  "e.npc.HumanFemaleWarriorNPCPissed03": {
+    "category": "player",
+    "sounds": ["npc/HumanFemaleWarriorNPC/e.npc.HumanFemaleWarriorNPCPissed03"]
+  },
+  "e.npc.HumanFemaleWarriorNPCPissed04": {
+    "category": "player",
+    "sounds": ["npc/HumanFemaleWarriorNPC/e.npc.HumanFemaleWarriorNPCPissed04"]
+  },
+  "e.npc.HumanFemaleWarriorNPCVendor01": {
+    "category": "player",
+    "sounds": ["npc/HumanFemaleWarriorNPC/e.npc.HumanFemaleWarriorNPCVendor01"]
+  },
+  "e.npc.HumanFemaleWarriorNPCVendor02": {
+    "category": "player",
+    "sounds": ["npc/HumanFemaleWarriorNPC/e.npc.HumanFemaleWarriorNPCVendor02"]
+  },
+  "e.npc.HumanFemaleWarriorNPCVendor03": {
+    "category": "player",
+    "sounds": ["npc/HumanFemaleWarriorNPC/e.npc.HumanFemaleWarriorNPCVendor03"]
+  },
+  "e.npc.HumanFemaleWarriorNPCVendor04": {
+    "category": "player",
+    "sounds": ["npc/HumanFemaleWarriorNPC/e.npc.HumanFemaleWarriorNPCVendor04"]
+  },
+  "e.npc.HumanMaleWarriorNPCFarewell01": {
+    "category": "player",
+    "sounds": ["npc/HumanMaleWarriorNPC/e.npc.HumanMaleWarriorNPCFarewell01"]
+  },
+  "e.npc.HumanMaleWarriorNPCFarewell02": {
+    "category": "player",
+    "sounds": ["npc/HumanMaleWarriorNPC/e.npc.HumanMaleWarriorNPCFarewell02"]
+  },
+  "e.npc.HumanMaleWarriorNPCFarewell03": {
+    "category": "player",
+    "sounds": ["npc/HumanMaleWarriorNPC/e.npc.HumanMaleWarriorNPCFarewell03"]
+  },
+  "e.npc.HumanMaleWarriorNPCFarewell04": {
+    "category": "player",
+    "sounds": ["npc/HumanMaleWarriorNPC/e.npc.HumanMaleWarriorNPCFarewell04"]
+  },
+  "e.npc.HumanMaleWarriorNPCFarewell05": {
+    "category": "player",
+    "sounds": ["npc/HumanMaleWarriorNPC/e.npc.HumanMaleWarriorNPCFarewell05"]
+  },
+  "e.npc.HumanMaleWarriorNPCGreeting01": {
+    "category": "player",
+    "sounds": ["npc/HumanMaleWarriorNPC/e.npc.HumanMaleWarriorNPCGreeting01"]
+  },
+  "e.npc.HumanMaleWarriorNPCGreeting02": {
+    "category": "player",
+    "sounds": ["npc/HumanMaleWarriorNPC/e.npc.HumanMaleWarriorNPCGreeting02"]
+  },
+  "e.npc.HumanMaleWarriorNPCGreeting03": {
+    "category": "player",
+    "sounds": ["npc/HumanMaleWarriorNPC/e.npc.HumanMaleWarriorNPCGreeting03"]
+  },
+  "e.npc.HumanMaleWarriorNPCGreeting04": {
+    "category": "player",
+    "sounds": ["npc/HumanMaleWarriorNPC/e.npc.HumanMaleWarriorNPCGreeting04"]
+  },
+  "e.npc.HumanMaleWarriorNPCGreeting05": {
+    "category": "player",
+    "sounds": ["npc/HumanMaleWarriorNPC/e.npc.HumanMaleWarriorNPCGreeting05"]
+  },
+  "e.npc.HumanMaleWarriorNPCPissed01": {
+    "category": "player",
+    "sounds": ["npc/HumanMaleWarriorNPC/e.npc.HumanMaleWarriorNPCPissed01"]
+  },
+  "e.npc.HumanMaleWarriorNPCPissed02": {
+    "category": "player",
+    "sounds": ["npc/HumanMaleWarriorNPC/e.npc.HumanMaleWarriorNPCPissed02"]
+  },
+  "e.npc.HumanMaleWarriorNPCPissed03": {
+    "category": "player",
+    "sounds": ["npc/HumanMaleWarriorNPC/e.npc.HumanMaleWarriorNPCPissed03"]
+  },
+  "e.npc.HumanMaleWarriorNPCPissed04": {
+    "category": "player",
+    "sounds": ["npc/HumanMaleWarriorNPC/e.npc.HumanMaleWarriorNPCPissed04"]
+  },
+  "e.npc.HumanMaleWarriorNPCPissed05": {
+    "category": "player",
+    "sounds": ["npc/HumanMaleWarriorNPC/e.npc.HumanMaleWarriorNPCPissed05"]
+  },
+  "e.npc.HumanMaleWarriorNPCVendor01": {
+    "category": "player",
+    "sounds": ["npc/HumanMaleWarriorNPC/e.npc.HumanMaleWarriorNPCVendor01"]
+  },
+  "e.npc.HumanMaleWarriorNPCVendor02": {
+    "category": "player",
+    "sounds": ["npc/HumanMaleWarriorNPC/e.npc.HumanMaleWarriorNPCVendor02"]
+  },
+  "e.npc.HumanMaleWarriorNPCVendor03": {
+    "category": "player",
+    "sounds": ["npc/HumanMaleWarriorNPC/e.npc.HumanMaleWarriorNPCVendor03"]
+  },
+  "e.npc.HumanMaleWarriorNPCVendor04": {
+    "category": "player",
+    "sounds": ["npc/HumanMaleWarriorNPC/e.npc.HumanMaleWarriorNPCVendor04"]
+  },
+  "e.npc.HumanMaleStandardNPCFarewell01": {
+    "category": "player",
+    "sounds": ["npc/HumanMaleStandardNPC/e.npc.HumanMaleStandardNPCFarewell01"]
+  },
+  "e.npc.HumanMaleStandardNPCFarewell02": {
+    "category": "player",
+    "sounds": ["npc/HumanMaleStandardNPC/e.npc.HumanMaleStandardNPCFarewell02"]
+  },
+  "e.npc.HumanMaleStandardNPCFarewell03": {
+    "category": "player",
+    "sounds": ["npc/HumanMaleStandardNPC/e.npc.HumanMaleStandardNPCFarewell03"]
+  },
+  "e.npc.HumanMaleStandardNPCGreetings01": {
+    "category": "player",
+    "sounds": ["npc/HumanMaleStandardNPC/e.npc.HumanMaleStandardNPCGreetings01"]
+  },
+  "e.npc.HumanMaleStandardNPCGreetings02": {
+    "category": "player",
+    "sounds": ["npc/HumanMaleStandardNPC/e.npc.HumanMaleStandardNPCGreetings02"]
+  },
+  "e.npc.HumanMaleStandardNPCGreetings03": {
+    "category": "player",
+    "sounds": ["npc/HumanMaleStandardNPC/e.npc.HumanMaleStandardNPCGreetings03"]
+  },
+  "e.npc.HumanMaleStandardNPCGreetings04": {
+    "category": "player",
+    "sounds": ["npc/HumanMaleStandardNPC/e.npc.HumanMaleStandardNPCGreetings04"]
+  },
+  "e.npc.HumanMaleStandardNPCGreetings05": {
+    "category": "player",
+    "sounds": ["npc/HumanMaleStandardNPC/e.npc.HumanMaleStandardNPCGreetings05"]
+  },
+  "e.npc.HumanMaleStandardNPCGreetings06": {
+    "category": "player",
+    "sounds": ["npc/HumanMaleStandardNPC/e.npc.HumanMaleStandardNPCGreetings06"]
+  },
+  "e.npc.HumanMaleStandardNPCPissed01": {
+    "category": "player",
+    "sounds": ["npc/HumanMaleStandardNPC/e.npc.HumanMaleStandardNPCPissed01"]
+  },
+  "e.npc.HumanMaleStandardNPCPissed02": {
+    "category": "player",
+    "sounds": ["npc/HumanMaleStandardNPC/e.npc.HumanMaleStandardNPCPissed02"]
+  },
+  "e.npc.HumanMaleStandardNPCPissed03": {
+    "category": "player",
+    "sounds": ["npc/HumanMaleStandardNPC/e.npc.HumanMaleStandardNPCPissed03"]
+  },
+  "e.npc.HumanMaleStandardNPCPissed04": {
+    "category": "player",
+    "sounds": ["npc/HumanMaleStandardNPC/e.npc.HumanMaleStandardNPCPissed04"]
+  },
+  "e.npc.HumanMaleStandardNPCVendor01": {
+    "category": "player",
+    "sounds": ["npc/HumanMaleStandardNPC/e.npc.HumanMaleStandardNPCVendor01"]
+  },
+  "e.npc.HumanMaleStandardNPCVendor02": {
+    "category": "player",
+    "sounds": ["npc/HumanMaleStandardNPC/e.npc.HumanMaleStandardNPCVendor02"]
+  },
+  "e.npc.HumanMaleOfficialNPCGreeting01": {
+    "category": "player",
+    "sounds": ["npc/HumanMaleOfficialNPC/e.npc.HumanMaleOfficialNPCGreeting01"]
+  },
+  "e.npc.HumanMaleOfficialNPCGreeting02": {
+    "category": "player",
+    "sounds": ["npc/HumanMaleOfficialNPC/e.npc.HumanMaleOfficialNPCGreeting02"]
+  },
+  "e.npc.HumanMaleOfficialNPCGreeting03": {
+    "category": "player",
+    "sounds": ["npc/HumanMaleOfficialNPC/e.npc.HumanMaleOfficialNPCGreeting03"]
+  },
+  "e.npc.HumanMaleOfficialNPCGreeting04": {
+    "category": "player",
+    "sounds": ["npc/HumanMaleOfficialNPC/e.npc.HumanMaleOfficialNPCGreeting04"]
+  },
+  "e.npc.HumanMaleOfficialNPCGreeting05": {
+    "category": "player",
+    "sounds": ["npc/HumanMaleOfficialNPC/e.npc.HumanMaleOfficialNPCGreeting05"]
+  },
+  "e.npc.HumanMaleOfficialNPCGreeting06": {
+    "category": "player",
+    "sounds": ["npc/HumanMaleOfficialNPC/e.npc.HumanMaleOfficialNPCGreeting06"]
+  },
+  "e.npc.HumanMaleOfficialNPCVendor01": {
+    "category": "player",
+    "sounds": ["npc/HumanMaleOfficialNPC/e.npc.HumanMaleOfficialNPCVendor01"]
+  },
+  "e.npc.HumanMaleOfficialNPCVendor02": {
+    "category": "player",
+    "sounds": ["npc/HumanMaleOfficialNPC/e.npc.HumanMaleOfficialNPCVendor02"]
+  },
+  "e.npc.HumanMaleOfficialNPCVendor03": {
+    "category": "player",
+    "sounds": ["npc/HumanMaleOfficialNPC/e.npc.HumanMaleOfficialNPCVendor03"]
+  },
+  "e.npc.HumanMaleOfficialNPCVendor04": {
+    "category": "player",
+    "sounds": ["npc/HumanMaleOfficialNPC/e.npc.HumanMaleOfficialNPCVendor04"]
+  },
+  "e.npc.HumanMaleOfficialNPCFarewell01": {
+    "category": "player",
+    "sounds": ["npc/HumanMaleOfficialNPC/e.npc.HumanMaleOfficialNPCFarewell01"]
+  },
+  "e.npc.HumanMaleOfficialNPCFarewell02": {
+    "category": "player",
+    "sounds": ["npc/HumanMaleOfficialNPC/e.npc.HumanMaleOfficialNPCFarewell02"]
+  },
+  "e.npc.HumanMaleOfficialNPCFarewell03": {
+    "category": "player",
+    "sounds": ["npc/HumanMaleOfficialNPC/e.npc.HumanMaleOfficialNPCFarewell03"]
+  },
+  "e.npc.HumanMaleOfficialNPCFarewell04": {
+    "category": "player",
+    "sounds": ["npc/HumanMaleOfficialNPC/e.npc.HumanMaleOfficialNPCFarewell04"]
+  },
+  "e.npc.HumanMaleOfficialNPCPissed01": {
+    "category": "player",
+    "sounds": ["npc/HumanMaleOfficialNPC/e.npc.HumanMaleOfficialNPCPissed01"]
+  },
+  "e.npc.HumanMaleOfficialNPCPissed02": {
+    "category": "player",
+    "sounds": ["npc/HumanMaleOfficialNPC/e.npc.HumanMaleOfficialNPCPissed02"]
+  },
+  "e.npc.HumanMaleOfficialNPCPissed03": {
+    "category": "player",
+    "sounds": ["npc/HumanMaleOfficialNPC/e.npc.HumanMaleOfficialNPCPissed03"]
+  },
+  "e.npc.HumanMaleOfficialNPCPissed04": {
+    "category": "player",
+    "sounds": ["npc/HumanMaleOfficialNPC/e.npc.HumanMaleOfficialNPCPissed04"]
+  },
+  "e.npc.HumanMaleOfficialNPCPissed05": {
+    "category": "player",
+    "sounds": ["npc/HumanMaleOfficialNPC/e.npc.HumanMaleOfficialNPCPissed05"]
+  },
+  "e.npc.HumanMaleOfficialNPCPissed06": {
+    "category": "player",
+    "sounds": ["npc/HumanMaleOfficialNPC/e.npc.HumanMaleOfficialNPCPissed06"]
+  },
+  "e.npc.Anraphet_Death01": {
+    "category": "player",
+    "sounds": ["npc/Anraphet/e.npc.Anraphet_Death01"]
+  },
+  "e.npc.Anraphet_Engage01": {
+    "category": "player",
+    "sounds": ["npc/Anraphet/e.npc.Anraphet_Engage01"]
+  },
+  "e.npc.Anraphet_Slay02": {
+    "category": "player",
+    "sounds": ["npc/Anraphet/e.npc.Anraphet_Slay02"]
+  },
+  "e.npc.Anraphet_Wound03": {
+    "category": "player",
+    "sounds": ["npc/Anraphet/e.npc.Anraphet_Wound03"]
+  },
+  "e.npc.ArchbishopBenedictusAggro01": {
+    "category": "player",
+    "sounds": ["npc/ArchbishopBenedictus/e.npc.ArchbishopBenedictusAggro01"]
+  },
+  "e.npc.ArchbishopBenedictusGreeting01": {
+    "category": "player",
+    "sounds": ["npc/ArchbishopBenedictus/e.npc.ArchbishopBenedictusGreeting01"]
+  },
+  "e.npc.ArchbishopBenedictusGreeting02": {
+    "category": "player",
+    "sounds": ["npc/ArchbishopBenedictus/e.npc.ArchbishopBenedictusGreeting02"]
+  },
+  "e.npc.ArchbishopBenedictusGreeting03": {
+    "category": "player",
+    "sounds": ["npc/ArchbishopBenedictus/e.npc.ArchbishopBenedictusGreeting03"]	
+  },
+  "e.npc.ArchbishopBenedictusGreeting04": {
+    "category": "player",
+    "sounds": ["npc/ArchbishopBenedictus/e.npc.ArchbishopBenedictusGreeting04"]
+  },
+  "e.npc.Arion_Event03": {
+    "category": "player",
+    "sounds": ["npc/Arion/e.npc.Arion_Event03"]	
+  },
+  "e.npc.Arion_Event05": {
+    "category": "player",
+    "sounds": ["npc/Arion/e.npc.Arion_Event05"]	
+  },
+  "e.npc.Arion_Wound01": {
+    "category": "player",
+    "sounds": ["npc/Arion/e.npc.Arion_Wound01"]	
+  },
+  "e.npc.Arion_WoundCrit04": {
+    "category": "player",
+    "sounds": ["npc/Arion/e.npc.Arion_WoundCrit04"]	
+  },
+  "e.npc.ASSAULT_COMMANDER_AGGRO_1": {
+    "category": "player",
+    "sounds": ["npc/AssaultCommander/e.npc.ASSAULT_COMMANDER_AGGRO_1"]	
+  },
+  "e.npc.ASSAULT_COMMANDER_AGGRO_2": {
+    "category": "player",
+    "sounds": ["npc/AssaultCommander/e.npc.ASSAULT_COMMANDER_AGGRO_2"]	
+  },
+  "e.npc.ASSAULT_COMMANDER_AGGRO_3": {
+    "category": "player",
+    "sounds": ["npc/AssaultCommander/e.npc.ASSAULT_COMMANDER_AGGRO_3"]	
+  },
+  "e.npc.ASSAULT_COMMANDER_DEATH": {
+    "category": "player",
+    "sounds": ["npc/AssaultCommander/e.npc.ASSAULT_COMMANDER_DEATH"]	
+  },
+  "e.npc.ASSAULT_COMMANDER_EVENT_1": {
+    "category": "player",
+    "sounds": ["npc/AssaultCommander/e.npc.ASSAULT_COMMANDER_EVENT_1"]	
+  },
+  "e.npc.ASSAULT_COMMANDER_KILL_1": {
+    "category": "player",
+    "sounds": ["npc/AssaultCommander/e.npc.ASSAULT_COMMANDER_KILL_1"]	
+  },
+  "e.npc.ASSAULT_COMMANDER_KILL_2": {
+    "category": "player",
+    "sounds": ["npc/AssaultCommander/e.npc.ASSAULT_COMMANDER_KILL_2"]	
+  },
+  "e.npc.ASSAULT_COMMANDER_Wound_05": {
+    "category": "player",
+    "sounds": ["npc/AssaultCommander/e.npc.ASSAULT_COMMANDER_Wound_05"]	
+  },
+  "e.npc.Auch_NexPrince_Aggro01": {
+    "category": "player",
+    "sounds": ["npc/NexusPrinceShafar/e.npc.Auch_NexPrince_Aggro01"]
+  },
+  "e.npc.Auch_NexPrince_Aggro03": {
+    "category": "player",
+    "sounds": ["npc/NexusPrinceShafar/e.npc.Auch_NexPrince_Aggro03"]
+  },
+  "e.npc.Auch_NexPrince_Death01": {
+    "category": "player",
+    "sounds": ["npc/NexusPrinceShafar/e.npc.Auch_NexPrince_Death01"]
+  },
+  "e.npc.Auch_NexPrince_Intro01": {
+    "category": "player",
+    "sounds": ["npc/NexusPrinceShafar/e.npc.Auch_NexPrince_Intro01"]
+  },
+  "e.npc.Auch_NexPrince_Slay01": {
+    "category": "player",
+    "sounds": ["npc/NexusPrinceShafar/e.npc.Auch_NexPrince_Slay01"]
+  },
+  "e.npc.Auch_NexPrince_Slay02": {
+    "category": "player",
+    "sounds": ["npc/NexusPrinceShafar/e.npc.Auch_NexPrince_Slay02"]
+  },
+  "e.npc.PAT_NAXX_AGGRO01": {
+    "category": "player",
+    "sounds": ["npc/Patchwerk/e.npc.PAT_NAXX_AGGRO01"]
+  },
+  "e.npc.PAT_NAXX_DEATH": {
+    "category": "player",
+    "sounds": ["npc/Patchwerk/e.npc.PAT_NAXX_DEATH"]
+  },
+  "e.npc.PAT_NAXX_SLAY": {
+    "category": "player",
+    "sounds": ["npc/Patchwerk/e.npc.PAT_NAXX_SLAY"]
+  },
+  "e.npc.ArcaneTitan_Aggro_01": {
+    "category": "player",
+    "sounds": ["npc/ArcaneTitan/e.npc.ArcaneTitan_Aggro_01"]
+  },
+  "e.npc.ArcaneTitan_Aggro_02": {
+    "category": "player",
+    "sounds": ["npc/ArcaneTitan/e.npc.ArcaneTitan_Aggro_02"]
+  },
+  "e.npc.ArcaneTitan_Aggro_03": {
+    "category": "player",
+    "sounds": ["npc/ArcaneTitan/e.npc.ArcaneTitan_Aggro_03"]
+  },
+  "e.npc.ArcaneTitan_Aggro_04": {
+    "category": "player",
+    "sounds": ["npc/ArcaneTitan/e.npc.ArcaneTitan_Aggro_04"]
+  },
+  "e.npc.ArcaneTitan_Aggro_05": {
+    "category": "player",
+    "sounds": ["npc/ArcaneTitan/e.npc.ArcaneTitan_Aggro_05"]
+  },
+  "e.npc.ArcaneTitan_Aggro_06": {
+    "category": "player",
+    "sounds": ["npc/ArcaneTitan/e.npc.ArcaneTitan_Aggro_06"]
+  },
+  "e.npc.ArcaneTitan_Aggro_07": {
+    "category": "player",
+    "sounds": ["npc/ArcaneTitan/e.npc.ArcaneTitan_Aggro_07"]
+  },
+  "e.npc.ArcaneTitan_Aggro_08": {
+    "category": "player",
+    "sounds": ["npc/ArcaneTitan/e.npc.ArcaneTitan_Aggro_08"]
+  },
+  "e.npc.ArcaneTitan_Aggro_09": {
+    "category": "player",
+    "sounds": ["npc/ArcaneTitan/e.npc.ArcaneTitan_Aggro_09"]
+  },
+  "e.npc.ArcaneTitan_Aggro_10": {
+    "category": "player",
+    "sounds": ["npc/ArcaneTitan/e.npc.ArcaneTitan_Aggro_10"]
+  },
+  "e.npc.ArcaneTitan_Death_01": {
+    "category": "player",
+    "sounds": ["npc/ArcaneTitan/e.npc.ArcaneTitan_Death_01"]
+  },
+  "e.npc.ArcaneTitan_Death_02": {
+    "category": "player",
+    "sounds": ["npc/ArcaneTitan/e.npc.ArcaneTitan_Death_02"]
+  },
+  "e.npc.ArcaneTitan_Death_03": {
+    "category": "player",
+    "sounds": ["npc/ArcaneTitan/e.npc.ArcaneTitan_Death_03"]
+  },
+  "e.npc.ArcaneTitan_Death_04": {
+    "category": "player",
+    "sounds": ["npc/ArcaneTitan/e.npc.ArcaneTitan_Death_04"]
+  },
+  "e.npc.ArcaneTitan_Death_05": {
+    "category": "player",
+    "sounds": ["npc/ArcaneTitan/e.npc.ArcaneTitan_Death_05"]
+  },
+  "e.npc.ArcaneTitan_Death_06": {
+    "category": "player",
+    "sounds": ["npc/ArcaneTitan/e.npc.ArcaneTitan_Death_06"]
+  },
+  "e.npc.ArcaneTitan_Death_07": {
+    "category": "player",
+    "sounds": ["npc/ArcaneTitan/e.npc.ArcaneTitan_Death_07"]
+  },
+  "e.npc.ArcaneTitan_Death_08": {
+    "category": "player",
+    "sounds": ["npc/ArcaneTitan/e.npc.ArcaneTitan_Death_08"]
+  },
+  "e.npc.ArcaneTitan_Death_09": {
+    "category": "player",
+    "sounds": ["npc/ArcaneTitan/e.npc.ArcaneTitan_Death_09"]
+  },
+  "e.npc.ArcaneTitan_Death_10": {
+    "category": "player",
+    "sounds": ["npc/ArcaneTitan/e.npc.ArcaneTitan_Death_10"]
+  },
+  "e.npc.ArcaneTitan_Wound_01": {
+    "category": "player",
+    "sounds": ["npc/ArcaneTitan/e.npc.ArcaneTitan_Wound_01"]
+  },
+  "e.npc.ArcaneTitan_Wound_02": {
+    "category": "player",
+    "sounds": ["npc/ArcaneTitan/e.npc.ArcaneTitan_Wound_02"]
+  },
+  "e.npc.ArcaneTitan_Wound_03": {
+    "category": "player",
+    "sounds": ["npc/ArcaneTitan/e.npc.ArcaneTitan_Wound_03"]
+  },
+  "e.npc.ArcaneTitan_Wound_04": {
+    "category": "player",
+    "sounds": ["npc/ArcaneTitan/e.npc.ArcaneTitan_Wound_04"]
+  },
+  "e.npc.ArcaneTitan_Wound_05": {
+    "category": "player",
+    "sounds": ["npc/ArcaneTitan/e.npc.ArcaneTitan_Wound_05"]
+  },
+  "e.npc.ArcaneTitan_Wound_06": {
+    "category": "player",
+    "sounds": ["npc/ArcaneTitan/e.npc.ArcaneTitan_Wound_06"]
+  },
+  "e.npc.ArcaneTitan_Wound_07": {
+    "category": "player",
+    "sounds": ["npc/ArcaneTitan/e.npc.ArcaneTitan_Wound_07"]
+  },
+  "e.npc.ArcaneTitan_Wound_08": {
+    "category": "player",
+    "sounds": ["npc/ArcaneTitan/e.npc.ArcaneTitan_Wound_08"]
+  },
+  "e.npc.ArcaneTitan_Wound_09": {
+    "category": "player",
+    "sounds": ["npc/ArcaneTitan/e.npc.ArcaneTitan_Wound_09"]
+  },
+  "e.npc.ArcaneTitan_Wound_10": {
+    "category": "player",
+    "sounds": ["npc/ArcaneTitan/e.npc.ArcaneTitan_Wound_10"]
+  },
+  "e.npc.AkilzonAggro": {
+    "category": "player",
+    "sounds": ["npc/Akilzon/e.npc.AkilzonAggro"]
+  },
+  "e.npc.AkilzonDeath": {
+    "category": "player",
+    "sounds": ["npc/Akilzon/e.npc.AkilzonDeath"]
+  },
+  "e.npc.AkilzonSlay01": {
+    "category": "player",
+    "sounds": ["npc/Akilzon/e.npc.AkilzonSlay01"]
+  },
+  "e.npc.AkilzonSlay02": {
+    "category": "player",
+    "sounds": ["npc/Akilzon/e.npc.AkilzonSlay02"]
+  },
+  "e.npc.ArkeddonKill": {
+    "category": "player",
+    "sounds": ["npc/Arkeddon/e.npc.ArkeddonKill"]
+  },
+  "e.npc.ArkeddonDie": {
+    "category": "player",
+    "sounds": ["npc/Arkeddon/e.npc.ArkeddonDie"]
+  },
+  "e.npc.ArkeddonAggro": {
+    "category": "player",
+    "sounds": ["npc/Arkeddon/e.npc.ArkeddonAggro"]
+  },
+  "e.npc.AsimAlAkirCloudFighterSlay01": {
+    "category": "player",
+    "sounds": ["npc/AsimAlAkir/e.npc.AsimAlAkirCloudFighterSlay01"]
+  },
+  "e.npc.AsimAlAkirCloudFighterSlay02": {
+    "category": "player",
+    "sounds": ["npc/AsimAlAkir/e.npc.AsimAlAkirCloudFighterSlay02"]
+  },
+  "e.npc.AsimAlAkirCloudFighterAggro": {
+    "category": "player",
+    "sounds": ["npc/AsimAlAkir/e.npc.AsimAlAkirCloudFighterAggro"]
+  },
+  "e.npc.AsimAlAkirCloudFighterDie": {
+    "category": "player",
+    "sounds": ["npc/AsimAlAkir/e.npc.AsimAlAkirCloudFighterDie"]
+  },
+  "e.npc.BloodmageThalnosSlay01": {
+    "category": "player",
+    "sounds": ["npc/BloodmageThalnos/e.npc.BloodmageThalnosSlay01"]
+  },
+  "e.npc.BloodmageThalnosDie": {
+    "category": "player",
+    "sounds": ["npc/BloodmageThalnos/e.npc.BloodmageThalnosDie"]
+  },
+  "e.npc.BloodmageThalnosAggro01": {
+    "category": "player",
+    "sounds": ["npc/BloodmageThalnos/e.npc.BloodmageThalnosAggro01"]
+  },
+  "e.npc.BLACKTHORN_AGGRO": {
+    "category": "player",
+    "sounds": ["npc/Blackthorn/e.npc.BLACKTHORN_AGGRO"]
+  },
+  "e.npc.BLACKTHORN_DEATH": {
+    "category": "player",
+    "sounds": ["npc/Blackthorn/e.npc.BLACKTHORN_DEATH"]
+  },
+  "e.npc.BLACKTHORN_KILL_01": {
+    "category": "player",
+    "sounds": ["npc/Blackthorn/e.npc.BLACKTHORN_KILL_01"]
+  },
+  "e.npc.BLACKTHORN_KILL_02": {
+    "category": "player",
+    "sounds": ["npc/Blackthorn/e.npc.BLACKTHORN_KILL_02"]
+  },
+  "e.npc.BLACKTHORN_KILL_03": {
+    "category": "player",
+    "sounds": ["npc/Blackthorn/e.npc.BLACKTHORN_KILL_03"]
+  },
+  "e.npc.Auch_Malad_Aggro01": {
+    "category": "player",
+    "sounds": ["npc/ExarchMaladaar/e.npc.Auch_Malad_Aggro01"]
+  },
+  "e.npc.Auch_Malad_Aggro02": {
+    "category": "player",
+    "sounds": ["npc/ExarchMaladaar/e.npc.Auch_Malad_Aggro02"]
+  },
+  "e.npc.Auch_Malad_Aggro03": {
+    "category": "player",
+    "sounds": ["npc/ExarchMaladaar/e.npc.Auch_Malad_Aggro03"]
+  },
+  "e.npc.Auch_Malad_Death01": {
+    "category": "player",
+    "sounds": ["npc/ExarchMaladaar/e.npc.Auch_Malad_Death01"]
+  },
+  "e.npc.Auch_Malad_Slay01": {
+    "category": "player",
+    "sounds": ["npc/ExarchMaladaar/e.npc.Auch_Malad_Slay01"]
+  },
+  "e.npc.Auch_Malad_Slay02": {
+    "category": "player",
+    "sounds": ["npc/ExarchMaladaar/e.npc.Auch_Malad_Slay02"]
+  },
+  "e.npc.Auch_Malad_SoulCleave01": {
+    "category": "player",
+    "sounds": ["npc/ExarchMaladaar/e.npc.Auch_Malad_SoulCleave01"]
+  },
+  "e.npc.MALADAAR_AGGRO_1": {
+    "category": "player",
+    "sounds": ["npc/ExarchMaladaar/e.npc.MALADAAR_AGGRO_1"]
+  },
+  "e.npc.MALADAAR_Death_01": {
+    "category": "player",
+    "sounds": ["npc/ExarchMaladaar/e.npc.MALADAAR_Death_01"]
+  },
+  "e.npc.MALADAAR_Slay_01": {
+    "category": "player",
+    "sounds": ["npc/ExarchMaladaar/e.npc.MALADAAR_Slay_01"]
+  },
+  "e.npc.MON_DraenorGoat_Pet_Aggro": {
+    "category": "player",
+    "sounds": ["npc/DraenorGoatPet/e.npc.MON_DraenorGoat_Pet_Aggro"]
+  },
+  "e.npc.MON_DraenorGoat_Pet_Attack05": {
+    "category": "player",
+    "sounds": ["npc/DraenorGoatPet/e.npc.MON_DraenorGoat_Pet_Attack05"]
+  },
+  "e.npc.MON_DraenorGoat_Pet_Death02": {
+    "category": "player",
+    "sounds": ["npc/DraenorGoatPet/e.npc.MON_DraenorGoat_Pet_Death02"]
+  },
+  "e.npc.MON_DraenorGoat_Pet_Death03": {
+    "category": "player",
+    "sounds": ["npc/DraenorGoatPet/e.npc.MON_DraenorGoat_Pet_Death03"]
+  },
+  "e.npc.MON_DraenorGoat_Pet_Death05": {
+    "category": "player",
+    "sounds": ["npc/DraenorGoatPet/e.npc.MON_DraenorGoat_Pet_Death05"]
+  },
+  "e.npc.CommanderLindonAGGRO_01": {
+    "category": "player",
+    "sounds": ["npc/CommanderLindon/e.npc.CommanderLindonAGGRO_01"]
+  },
+  "e.npc.CommanderLindonDEATH_01": {
+    "category": "player",
+    "sounds": ["npc/CommanderLindon/e.npc.CommanderLindonDEATH_01"]
+  },
+  "e.npc.CommanderLindonSLAY_01": {
+    "category": "player",
+    "sounds": ["npc/CommanderLindon/e.npc.CommanderLindonSLAY_01"]
+  },
+  "e.npc.CommanderLindonSLAY_02": {
+    "category": "player",
+    "sounds": ["npc/CommanderLindon/e.npc.CommanderLindonSLAY_02"]
+  },
+  "e.npc.AtramedesAggro01": {
+    "category": "player",
+    "sounds": ["npc/Atramedes/e.npc.AtramedesAggro01"]
+  },
+  "e.npc.AtramedesAggro02": {
+    "category": "player",
+    "sounds": ["npc/Atramedes/e.npc.AtramedesAggro02"]
+  },
+  "e.npc.AtramedesDie": {
+    "category": "player",
+    "sounds": ["npc/Atramedes/e.npc.AtramedesDie"]
+  },
+  "e.npc.AtramedesSlay01": {
+    "category": "player",
+    "sounds": ["npc/Atramedes/e.npc.AtramedesSlay01"]
+  },
+  "e.npc.AtramedesSlay02": {
+    "category": "player",
+    "sounds": ["npc/Atramedes/e.npc.AtramedesSlay02"]
+  },
+  "e.npc.AttumenAggro": {
+    "category": "player",
+    "sounds": ["npc/AttumenTheHuntsman/e.npc.AttumenAggro"]
+  },
+  "e.npc.AttumenDies01": {
+    "category": "player",
+    "sounds": ["npc/AttumenTheHuntsman/e.npc.AttumenDies01"]
+  },
+  "e.npc.AttumenSlay01": {
+    "category": "player",
+    "sounds": ["npc/AttumenTheHuntsman/e.npc.AttumenSlay01"]
+  },
+  "e.npc.AttumenSlay02": {
+    "category": "player",
+    "sounds": ["npc/AttumenTheHuntsman/e.npc.AttumenSlay02"]
+  },
+  "e.npc.AttumenSlay03": {
+    "category": "player",
+    "sounds": ["npc/AttumenTheHuntsman/e.npc.AttumenSlay03"]
+  },
+  "Auch_Hellmaw_Intro01": {
+    "category": "player",
+    "sounds": ["npc/AmbassadorHellmaw/Auch_Hellmaw_Intro01"]
+  },
+  "Auch_Helmaw_Aggro01": {
+    "category": "player",
+    "sounds": ["npc/AmbassadorHellmaw/Auch_Helmaw_Aggro01"]
+  },
+  "Auch_Helmaw_Aggro02": {
+    "category": "player",
+    "sounds": ["npc/AmbassadorHellmaw/Auch_Helmaw_Aggro02"]
+  },
+  "Auch_Helmaw_Aggro03": {
+    "category": "player",
+    "sounds": ["npc/AmbassadorHellmaw/Auch_Helmaw_Aggro03"]
+  },
+  "Auch_Helmaw_Death01": {
+    "category": "player",
+    "sounds": ["npc/AmbassadorHellmaw/Auch_Helmaw_Death01"]
+  },
+  "Auch_Helmaw_Help01": {
+    "category": "player",
+    "sounds": ["npc/AmbassadorHellmaw/Auch_Helmaw_Help01"]
+  },
+  "Auch_Helmaw_Slay01": {
+    "category": "player",
+    "sounds": ["npc/AmbassadorHellmaw/Auch_Helmaw_Slay01"]
+  },
+  "Auch_Helmaw_Slay02": {
+    "category": "player",
+    "sounds": ["npc/AmbassadorHellmaw/Auch_Helmaw_Slay02"]
+  },
+  "VO_HO_Ammunae_Death01": {
+    "category": "player",
+    "sounds": ["npc/Ammunae/VO_HO_Ammunae_Death01"]
+  },
+  "VO_HO_Ammunae_Engage01": {
+    "category": "player",
+    "sounds": ["npc/Ammunae/VO_HO_Ammunae_Engage01"]
+  },
+  "VO_HO_Ammunae_Event01": {
+    "category": "player",
+    "sounds": ["npc/Ammunae/VO_HO_Ammunae_Event01"]
+  },
+  "VO_HO_Ammunae_Slay01": {
+    "category": "player",
+    "sounds": ["npc/Ammunae/VO_HO_Ammunae_Slay01"]
+  },
+  "VO_HO_Ammunae_Slay02": {
+    "category": "player",
+    "sounds": ["npc/Ammunae/VO_HO_Ammunae_Slay02"]
+  },
+  "VO_HO_Ammunae_Wound01": {
+    "category": "player",
+    "sounds": ["npc/Ammunae/VO_HO_Ammunae_Wound01"]
+  },
+  "ArchaedasAggroYell01": {
+    "category": "player",
+    "sounds": ["npc/Archaedas/ArchaedasAggroYell01"]
+  },
+  "ArchaedasSlay01": {
+    "category": "player",
+    "sounds": ["npc/Archaedas/ArchaedasSlay01"]
+  },
+  "ArchaedasSummon01": {
+    "category": "player",
+    "sounds": ["npc/Archaedas/ArchaedasSummon01"]
+  },
+  "ArchaedasSummon02": {
+    "category": "player",
+    "sounds": ["npc/Archaedas/ArchaedasSummon02"]
+  },
+  "Auch_Blckhrt01_Aggro02": {
+    "category": "player",
+    "sounds": ["npc/BlackheartTheInciter/Auch_Blckhrt01_Aggro02"]
+  },
+  "Auch_Blckhrt01_Aggro03": {
+    "category": "player",
+    "sounds": ["npc/BlackheartTheInciter/Auch_Blckhrt01_Aggro03"]
+  },
+  "Auch_Blckhrt01_Death01": {
+    "category": "player",
+    "sounds": ["npc/BlackheartTheInciter/Auch_Blckhrt01_Death01"]
+  },
+  "Auch_Blckhrt01_Slay01": {
+    "category": "player",
+    "sounds": ["npc/BlackheartTheInciter/Auch_Blckhrt01_Slay01"]
+  },
+  "Auch_Blckhrt01_Slay02": {
+    "category": "player",
+    "sounds": ["npc/BlackheartTheInciter/Auch_Blckhrt01_Slay02"]
+  },
+  "BRUTALLUSDEATH": {
+    "category": "player",
+    "sounds": ["npc/Brutallus/BRUTALLUSDEATH"]
+  },
+  "BRUTALLUSINTRO": {
+    "category": "player",
+    "sounds": ["npc/Brutallus/BRUTALLUSINTRO"]
+  },
+  "BRUTALLUSKILL01": {
+    "category": "player",
+    "sounds": ["npc/Brutallus/BRUTALLUSKILL01"]
+  },
+  "BRUTALLUSKILL03": {
+    "category": "player",
+    "sounds": ["npc/Brutallus/BRUTALLUSKILL03"]
+  },
+  "BRUTALLUSPLAYERAGGRO": {
+    "category": "player",
+    "sounds": ["npc/Brutallus/BRUTALLUSPLAYERAGGRO"]
+  },
+  "VO_QE_VJ_Budd_AllianceShip01": {
+    "category": "player",
+    "sounds": ["npc/Budd/VO_QE_VJ_Budd_AllianceShip01"]
+  },
+  "VO_QE_VJ_Budd_AllianceShip02": {
+    "category": "player",
+    "sounds": ["npc/Budd/VO_QE_VJ_Budd_AllianceShip02"]
+  },
+  "VO_QE_VJ_Budd_AllianceShip03": {
+    "category": "player",
+    "sounds": ["npc/Budd/VO_QE_VJ_Budd_AllianceShip03"]
+  },
+  "VO_QE_VJ_Budd_AllianceShip04": {
+    "category": "player",
+    "sounds": ["npc/Budd/VO_QE_VJ_Budd_AllianceShip04"]
+  },
+  "VO_QE_VJ_Budd_AllianceShip05": {
+    "category": "player",
+    "sounds": ["npc/Budd/VO_QE_VJ_Budd_AllianceShip05"]
+  },
+  "CharlgaRazorflankAggro01": {
+    "category": "player",
+    "sounds": ["npc/CharlgaRazorflank/CharlgaRazorflankAggro01"]
+  },
+  "CharlgaRazorflankAggro02": {
+    "category": "player",
+    "sounds": ["npc/CharlgaRazorflank/CharlgaRazorflankAggro02"]
+  },
+  "CharlgaRazorflankSlay01": {
+    "category": "player",
+    "sounds": ["npc/CharlgaRazorflank/CharlgaRazorflankSlay01"]
+  },
+  "VO_MP_Salyis_AGRO_01": {
+    "category": "player",
+    "sounds": ["npc/ChiefSalyis/VO_MP_Salyis_AGRO_01"]
+  },
+  "VO_MP_Salyis_DEATH_01": {
+    "category": "player",
+    "sounds": ["npc/ChiefSalyis/VO_MP_Salyis_DEATH_01"]
+  },
+  "VO_MP_Salyis_SLAY_01": {
+    "category": "player",
+    "sounds": ["npc/ChiefSalyis/VO_MP_Salyis_SLAY_01"]
+  },
+  "OzCroneAttack01": {
+    "category": "player",
+    "sounds": ["npc/Crone/OzCroneAttack01"]
+  },
+  "OzCroneDies01": {
+    "category": "player",
+    "sounds": ["npc/Crone/OzCroneDies01"]
+  },
+  "OzCroneIntro02": {
+    "category": "player",
+    "sounds": ["npc/Crone/OzCroneIntro02"]
+  },
+  "OzCroneSlay01": {
+    "category": "player",
+    "sounds": ["npc/Crone/OzCroneSlay01"]
+  },
+  "OzCroneWound01": {
+    "category": "player",
+    "sounds": ["npc/Crone/OzCroneWound01"]
+  },
+  "BLA_NAXX_AGGRO": {
+    "category": "player",
+    "sounds": ["npc/DameBlaumeux/BLA_NAXX_AGGRO"]
+  },
+  "BLA_NAXX_DEATH": {
+    "category": "player",
+    "sounds": ["npc/DameBlaumeux/BLA_NAXX_DEATH"]
+  },
+  "BLA_NAXX_SLAY": {
+    "category": "player",
+    "sounds": ["npc/DameBlaumeux/BLA_NAXX_SLAY"]
+  },
+  "BLCKTMPLE_EssnceGrf_Aggro02": {
+    "category": "player",
+    "sounds": ["npc/EssenceOfGrief/BLCKTMPLE_EssnceGrf_Aggro02"]
+  },
+  "BLCKTMPLE_EssnceGrf_Freed01": {
+    "category": "player",
+    "sounds": ["npc/EssenceOfGrief/BLCKTMPLE_EssnceGrf_Freed01"]
+  },
+  "BLCKTMPLE_EssnceGrf_Slay01": {
+    "category": "player",
+    "sounds": ["npc/EssenceOfGrief/BLCKTMPLE_EssnceGrf_Slay01"]
+  },
+  "BLCKTMPLE_EssnceGrf_Slay02": {
+    "category": "player",
+    "sounds": ["npc/EssenceOfGrief/BLCKTMPLE_EssnceGrf_Slay02"]
+  },
+  "BLCKTMPLE_EssnceGrf_Slay03": {
+    "category": "player",
+    "sounds": ["npc/EssenceOfGrief/BLCKTMPLE_EssnceGrf_Slay03"]
+  },
+  "ExecutusAggro01": {
+    "category": "player",
+    "sounds": ["npc/Executus/ExecutusAggro01"]
+  },
+  "ExecutusDefeat01": {
+    "category": "player",
+    "sounds": ["npc/Executus/ExecutusDefeat01"]
+  },
+  "ExecutusSpecialAttack01": {
+    "category": "player",
+    "sounds": ["npc/Executus/ExecutusSpecialAttack01"]
+  },
+  "VO_SH_SPELLMASTER_AGGRO_01": {
+    "category": "player",
+    "sounds": ["npc/FlameweaverKoegler/VO_SH_SPELLMASTER_AGGRO_01"]
+  },
+  "VO_SH_SPELLMASTER_Attack_01": {
+    "category": "player",
+    "sounds": ["npc/FlameweaverKoegler/VO_SH_SPELLMASTER_Attack_01"]
+  },
+  "VO_SH_SPELLMASTER_DEATH_01": {
+    "category": "player",
+    "sounds": ["npc/FlameweaverKoegler/VO_SH_SPELLMASTER_DEATH_01"]
+  },
+  "VO_SH_SPELLMASTER_SLAY_01": {
+    "category": "player",
+    "sounds": ["npc/FlameweaverKoegler/VO_SH_SPELLMASTER_SLAY_01"]
+  },
+  "VO_SH_SPELLMASTER_SLAY_02": {
+    "category": "player",
+    "sounds": ["npc/FlameweaverKoegler/VO_SH_SPELLMASTER_SLAY_02"]
+  },
+  "GOT_NAXX_DEATH": {
+    "category": "player",
+    "sounds": ["npc/Gothik/GOT_NAXX_DEATH"]
+  },
+  "GOT_NAXX_SLAY": {
+    "category": "player",
+    "sounds": ["npc/Gothik/GOT_NAXX_SLAY"]
+  },
+  "GOT_NAXX_SPCH": {
+    "category": "player",
+    "sounds": ["npc/Gothik/GOT_NAXX_SPCH"]
+  },
+  "GOT_NAXX_TLPRT": {
+    "category": "player",
+    "sounds": ["npc/Gothik/GOT_NAXX_TLPRT"]
+  },
+  "GRULLAIR_Gruul_Death01": {
+    "category": "player",
+    "sounds": ["npc/GruulTheDragonkiller/GRULLAIR_Gruul_Death01"]
+  },
+  "GRULLAIR_Gruul_Petrify02": {
+    "category": "player",
+    "sounds": ["npc/GruulTheDragonkiller/GRULLAIR_Gruul_Petrify02"]
+  },
+  "GRULLAIR_Gruul_Slay02": {
+    "category": "player",
+    "sounds": ["npc/GruulTheDragonkiller/GRULLAIR_Gruul_Slay02"]
+  },
+  "GRULLAIR_Gruul_Slay03": {
+    "category": "player",
+    "sounds": ["npc/GruulTheDragonkiller/GRULLAIR_Gruul_Slay03"]
+  },
+  "LichAggro": {
+    "category": "player",
+    "sounds": ["npc/Lich/LichAggro"]
+  },
+  "LichAttackA": {
+    "category": "player",
+    "sounds": ["npc/Lich/LichAttackA"]
+  },
+  "LichDeath": {
+    "category": "player",
+    "sounds": ["npc/Lich/LichDeath"]
+  },
+  "LichWoundA": {
+    "category": "player",
+    "sounds": ["npc/Lich/LichWoundA"]
+  },
+  "LordVictorNefariusGames": {
+    "category": "player",
+    "sounds": ["npc/LordVictorNefarius/LordVictorNefariusGames"]
+  },
+  "MagathaGrimtotemGreeting01": {
+    "category": "player",
+    "sounds": ["npc/MagathaGrimtotem/MagathaGrimtotemGreeting01"]
+  },
+  "MagathaGrimtotemGreeting02": {
+    "category": "player",
+    "sounds": ["npc/MagathaGrimtotem/MagathaGrimtotemGreeting02"]
+  },
+  "MagathaGrimtotemGreeting03": {
+    "category": "player",
+    "sounds": ["npc/MagathaGrimtotem/MagathaGrimtotemGreeting03"]
+  },
+  "HS_MaidenOfGrief_Aggro": {
+    "category": "player",
+    "sounds": ["npc/MaidenOfGrief/HS_MaidenOfGrief_Aggro"]
+  },
+  "HS_MaidenOfGrief_Attack01": {
+    "category": "player",
+    "sounds": ["npc/MaidenOfGrief/HS_MaidenOfGrief_Attack01"]
+  },
+  "HS_MaidenOfGrief_Death01": {
+    "category": "player",
+    "sounds": ["npc/MaidenOfGrief/HS_MaidenOfGrief_Death01"]
+  },
+  "HS_MaidenOfGrief_Slay01": {
+    "category": "player",
+    "sounds": ["npc/MaidenOfGrief/HS_MaidenOfGrief_Slay01"]
+  },
+  "HS_MaidenOfGrief_Slay02": {
+    "category": "player",
+    "sounds": ["npc/MaidenOfGrief/HS_MaidenOfGrief_Slay02"]
+  },
+  "HS_MaidenOfGrief_Slay03": {
+    "category": "player",
+    "sounds": ["npc/MaidenOfGrief/HS_MaidenOfGrief_Slay03"]
+  },
+  "HS_MaidenOfGrief_Slay04": {
+    "category": "player",
+    "sounds": ["npc/MaidenOfGrief/HS_MaidenOfGrief_Slay04"]
+  },
+  "HS_MaidenOfGrief_Stun": {
+    "category": "player",
+    "sounds": ["npc/MaidenOfGrief/HS_MaidenOfGrief_Stun"]
+  },
+  "HS_MaidenOfGrief_Wound02": {
+    "category": "player",
+    "sounds": ["npc/MaidenOfGrief/HS_MaidenOfGrief_Wound02"]
+  },
+  "EE_Malygos_AggroPhase2": {
+    "category": "player",
+    "sounds": ["npc/Malygos/EE_Malygos_AggroPhase2"]
+  },
+  "EE_Malygos_Attack03": {
+    "category": "player",
+    "sounds": ["npc/Malygos/EE_Malygos_Attack03"]
+  },
+  "EE_Malygos_Death01": {
+    "category": "player",
+    "sounds": ["npc/Malygos/EE_Malygos_Death01"]
+  },
+  "EE_Malygos_SlayPhase2-03": {
+    "category": "player",
+    "sounds": ["npc/Malygos/EE_Malygos_SlayPhase2-03"]
+  },
+  "EE_Malygos_SlayPhase3-02": {
+    "category": "player",
+    "sounds": ["npc/Malygos/EE_Malygos_SlayPhase3-02"]
+  },
+  "EE_Malygos_SlayPhase3-03": {
+    "category": "player",
+    "sounds": ["npc/Malygos/EE_Malygos_SlayPhase3-03"]
+  },
+  "VO_60_ID_NEESA_DEATH": {
+    "category": "player",
+    "sounds": ["npc/Neesa/VO_60_ID_NEESA_DEATH"]
+  },
+  "VO_60_ID_NEESA_INTRO01": {
+    "category": "player",
+    "sounds": ["npc/Neesa/VO_60_ID_NEESA_INTRO01"]
+  },
+  "VO_60_ID_NEESA_KILL01": {
+    "category": "player",
+    "sounds": ["npc/Neesa/VO_60_ID_NEESA_KILL01"]
+  },
+  "VO_60_ID_NEESA_KILL02": {
+    "category": "player",
+    "sounds": ["npc/Neesa/VO_60_ID_NEESA_KILL02"]
+  },
+  "VO_60_ID_NEESA_KILL03": {
+    "category": "player",
+    "sounds": ["npc/Neesa/VO_60_ID_NEESA_KILL03"]
+  },
+  "HELL_Neth_Aggro01": {
+    "category": "player",
+    "sounds": ["npc/Nethekurse/HELL_Neth_Aggro01"]
+  },
+  "HELL_Neth_Aggro02": {
+    "category": "player",
+    "sounds": ["npc/Nethekurse/HELL_Neth_Aggro02"]
+  },
+  "HELL_Neth_Aggro03": {
+    "category": "player",
+    "sounds": ["npc/Nethekurse/HELL_Neth_Aggro03"]
+  },
+  "HELL_Neth_Death01": {
+    "category": "player",
+    "sounds": ["npc/Nethekurse/HELL_Neth_Death01"]
+  },
+  "HELL_Neth_Slay01": {
+    "category": "player",
+    "sounds": ["npc/Nethekurse/HELL_Neth_Slay01"]
+  },
+  "HELL_Neth_Slay02": {
+    "category": "player",
+    "sounds": ["npc/Nethekurse/HELL_Neth_Slay02"]
+  },
+  "VO_60_BFD_GODS_EVENT_01": {
+    "category": "player",
+    "sounds": ["npc/OldGod/VO_60_BFD_GODS_EVENT_01"]
+  },
+  "VO_WOE_OLDGOD_EVENT_01": {
+    "category": "player",
+    "sounds": ["npc/OldGod/VO_WOE_OLDGOD_EVENT_01"]
+  },
+  "VO_WOE_OLDGOD_EVENT_02": {
+    "category": "player",
+    "sounds": ["npc/OldGod/VO_WOE_OLDGOD_EVENT_02"]
+  },
+  "HELL_Omor_Aggro01": {
+    "category": "player",
+    "sounds": ["npc/OmorTheUnscarred/HELL_Omor_Aggro01"]
+  },
+  "HELL_Omor_Aggro02": {
+    "category": "player",
+    "sounds": ["npc/OmorTheUnscarred/HELL_Omor_Aggro02"]
+  },
+  "HELL_Omor_Aggro03": {
+    "category": "player",
+    "sounds": ["npc/OmorTheUnscarred/HELL_Omor_Aggro03"]
+  },
+  "HELL_Omor_Death01": {
+    "category": "player",
+    "sounds": ["npc/OmorTheUnscarred/HELL_Omor_Death01"]
+  },
+  "HELL_Omor_Slay01": {
+    "category": "player",
+    "sounds": ["npc/OmorTheUnscarred/HELL_Omor_Slay01"]
+  },
+  "HELL_Omor_Slay02": {
+    "category": "player",
+    "sounds": ["npc/OmorTheUnscarred/HELL_Omor_Slay02"]
+  },
+  "VO_54_ORDOS_Attack_01": {
+    "category": "player",
+    "sounds": ["npc/ORDOS/VO_54_ORDOS_Attack_01"]
+  },
+  "VO_54_ORDOS_Death_01": {
+    "category": "player",
+    "sounds": ["npc/ORDOS/VO_54_ORDOS_Death_01"]
+  },
+  "VO_54_ORDOS_Wound_02": {
+    "category": "player",
+    "sounds": ["npc/ORDOS/VO_54_ORDOS_Wound_02"]
+  },
+  "VO_54_TI_ORDOS_DEATH": {
+    "category": "player",
+    "sounds": ["npc/ORDOS/VO_54_TI_ORDOS_DEATH"]
+  },
+  "VO_54_TI_ORDOS_INTRO_3": {
+    "category": "player",
+    "sounds": ["npc/ORDOS/VO_54_TI_ORDOS_INTRO_3"]
+  },
+  "VO_54_TI_ORDOS_INTRO_4": {
+    "category": "player",
+    "sounds": ["npc/ORDOS/VO_54_TI_ORDOS_INTRO_4"]
+  },
+  "VO_54_TI_ORDOS_KILL": {
+    "category": "player",
+    "sounds": ["npc/ORDOS/VO_54_TI_ORDOS_KILL"]
+  },
+  "NerubianAttackA": {
+    "category": "player",
+    "sounds": ["npc/Nerubian/NerubianAttackA"]
+  },
+  "NerubianDeath": {
+    "category": "player",
+    "sounds": ["npc/Nerubian/NerubianDeath"]
+  },
+  "NerubianStandScream": {
+    "category": "player",
+    "sounds": ["npc/Nerubian/NerubianStandScream"]
+  },
+  "NerubianWoundA": {
+    "category": "player",
+    "sounds": ["npc/Nerubian/NerubianWoundA"]
+  },
+  "NetherDrakeAllAttackD": {
+    "category": "player",
+    "sounds": ["npc/NetherDrakeAll/NetherDrakeAllAttackD"]
+  },
+  "NetherDrakeAllDeath": {
+    "category": "player",
+    "sounds": ["npc/NetherDrakeAll/NetherDrakeAllDeath"]
+  },
+  "NetherDrakeAllWoundB": {
+    "category": "player",
+    "sounds": ["npc/NetherDrakeAll/NetherDrakeAllWoundB"]
+  },
+  "mOgreAggro1": {
+    "category": "player",
+    "sounds": ["npc/Ogre/mOgreAggro1"]
+  },
+  "mOgreAggro2": {
+    "category": "player",
+    "sounds": ["npc/Ogre/mOgreAggro2"]
+  },
+  "mOgreAggro3": {
+    "category": "player",
+    "sounds": ["npc/Ogre/mOgreAggro3"]
+  },
+  "mOgreAttack1": {
+    "category": "player",
+    "sounds": ["npc/Ogre/mOgreAttack1"]
+  },
+  "mOgreDeath1": {
+    "category": "player",
+    "sounds": ["npc/Ogre/mOgreDeath1"]
+  },
+  "mOgreKill": {
+    "category": "player",
+    "sounds": ["npc/Ogre/mOgreKill"]
+  },
+  "mOgreMageAggro2": {
+    "category": "player",
+    "sounds": ["npc/OgreMage/mOgreMageAggro2"]
+  },
+  "mOgreMageAttack1": {
+    "category": "player",
+    "sounds": ["npc/OgreMage/mOgreMageAttack1"]
+  },
+  "mOgreMageDeath1": {
+    "category": "player",
+    "sounds": ["npc/OgreMage/mOgreMageDeath1"]
+  },
+  "mOgreMageWound1": {
+    "category": "player",
+    "sounds": ["npc/OgreMage/mOgreMageWound1"]
+  },
+  "e.npc.ArcaneTitanDeath": {
+    "category": "player",
+    "sounds": ["npc/ArcaneTitan/e.npc.ArcaneTitanDeath"]
+  }
+}

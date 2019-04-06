@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: club.minnced:java-discord-rpc:2.0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/club.minnced/java-discord-rpc/2.0.1/ead41bb260edbf8dd93fad38f0a85b52d6da844c/java-discord-rpc-2.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/club.minnced/java-discord-rpc/2.0.1/ffc0a52e9dd59796bf967e2aa81343c6377fed65/java-discord-rpc-2.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
