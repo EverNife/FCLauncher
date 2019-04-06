@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module external.linked.project.id=":launcher:test" external.linked.project.path="$MODULE_DIR$/../../../launcher" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="com.skcraft" external.system.module.type="sourceSet" external.system.module.version="1.0.5" type="JAVA_MODULE" version="4">
+<module external.linked.project.id=":launcher-fancy:main" external.linked.project.path="$MODULE_DIR$/../../../launcher-fancy" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="br.com.finalcraft" external.system.module.type="sourceSet" external.system.module.version="1.0.5" type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_6">
-    <output-test url="file://$MODULE_DIR$/../../../launcher/out/test/classes" />
+    <output url="file://$MODULE_DIR$/../../../launcher-fancy/out/production/classes" />
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../../../launcher/src/test" />
+    <content url="file://$MODULE_DIR$/../../../launcher-fancy/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../../launcher-fancy/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../launcher-fancy/src/main/resources" type="java-resource" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="com.skcraft.launcher.main" />
+    <orderEntry type="module" module-name="br.com.finalcraft.launcher.main" />
+    <orderEntry type="library" name="Gradle: com.github.insubstantial:substance:7.3" level="project" />
     <orderEntry type="library" name="Gradle: javax.xml.bind:jaxb-api:2.2.4" level="project" />
     <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.3.0" level="project" />
     <orderEntry type="library" name="Gradle: commons-lang:commons-lang:2.6" level="project" />
@@ -17,6 +21,9 @@
     <orderEntry type="library" name="Gradle: com.google.code.findbugs:jsr305:3.0.0" level="project" />
     <orderEntry type="library" name="Gradle: club.minnced:java-discord-rpc:2.0.1" level="project" />
     <orderEntry type="library" name="Gradle: org.projectlombok:lombok:1.16.18" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.insubstantial:laf-widget:7.3" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.insubstantial:trident:swing:7.3" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.insubstantial:laf-plugin:7.3" level="project" />
     <orderEntry type="library" name="Gradle: javax.xml.stream:stax-api:1.0-2" level="project" />
     <orderEntry type="library" name="Gradle: javax.activation:activation:1.1" level="project" />
     <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.3.0" level="project" />
@@ -24,5 +31,4 @@
     <orderEntry type="library" name="Gradle: net.java.dev.jna:jna:4.4.0" level="project" />
     <orderEntry type="library" name="Gradle: club.minnced:discord-rpc-release:v3.3.0" level="project" />
   </component>
-  <component name="TestModuleProperties" production-module="com.skcraft.launcher.main" />
 </module>

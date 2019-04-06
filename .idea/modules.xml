@@ -2,21 +2,21 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/creator-tools/com.skcraft.creator-tools.iml" filepath="$PROJECT_DIR$/.idea/modules/creator-tools/com.skcraft.creator-tools.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/creator-tools/com.skcraft.creator-tools.main.iml" filepath="$PROJECT_DIR$/.idea/modules/creator-tools/com.skcraft.creator-tools.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/creator-tools/com.skcraft.creator-tools.test.iml" filepath="$PROJECT_DIR$/.idea/modules/creator-tools/com.skcraft.creator-tools.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher/com.skcraft.launcher.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher/com.skcraft.launcher.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher-bootstrap/com.skcraft.launcher-bootstrap.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher-bootstrap/com.skcraft.launcher-bootstrap.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher-bootstrap/com.skcraft.launcher-bootstrap.main.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher-bootstrap/com.skcraft.launcher-bootstrap.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher-bootstrap/com.skcraft.launcher-bootstrap.test.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher-bootstrap/com.skcraft.launcher-bootstrap.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher-builder/com.skcraft.launcher-builder.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher-builder/com.skcraft.launcher-builder.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher-builder/com.skcraft.launcher-builder.main.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher-builder/com.skcraft.launcher-builder.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher-builder/com.skcraft.launcher-builder.test.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher-builder/com.skcraft.launcher-builder.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher-fancy/com.skcraft.launcher-fancy.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher-fancy/com.skcraft.launcher-fancy.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher-fancy/com.skcraft.launcher-fancy.main.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher-fancy/com.skcraft.launcher-fancy.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher-fancy/com.skcraft.launcher-fancy.test.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher-fancy/com.skcraft.launcher-fancy.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher/com.skcraft.launcher.main.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher/com.skcraft.launcher.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher/com.skcraft.launcher.test.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher/com.skcraft.launcher.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/creator-tools/br.com.finalcraft.creator-tools.iml" filepath="$PROJECT_DIR$/.idea/modules/creator-tools/br.com.finalcraft.creator-tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/creator-tools/br.com.finalcraft.creator-tools.main.iml" filepath="$PROJECT_DIR$/.idea/modules/creator-tools/br.com.finalcraft.creator-tools.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/creator-tools/br.com.finalcraft.creator-tools.test.iml" filepath="$PROJECT_DIR$/.idea/modules/creator-tools/br.com.finalcraft.creator-tools.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher/br.com.finalcraft.launcher.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher/br.com.finalcraft.launcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher-bootstrap/br.com.finalcraft.launcher-bootstrap.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher-bootstrap/br.com.finalcraft.launcher-bootstrap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher-bootstrap/br.com.finalcraft.launcher-bootstrap.main.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher-bootstrap/br.com.finalcraft.launcher-bootstrap.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher-bootstrap/br.com.finalcraft.launcher-bootstrap.test.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher-bootstrap/br.com.finalcraft.launcher-bootstrap.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher-builder/br.com.finalcraft.launcher-builder.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher-builder/br.com.finalcraft.launcher-builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher-builder/br.com.finalcraft.launcher-builder.main.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher-builder/br.com.finalcraft.launcher-builder.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher-builder/br.com.finalcraft.launcher-builder.test.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher-builder/br.com.finalcraft.launcher-builder.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher-fancy/br.com.finalcraft.launcher-fancy.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher-fancy/br.com.finalcraft.launcher-fancy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher-fancy/br.com.finalcraft.launcher-fancy.main.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher-fancy/br.com.finalcraft.launcher-fancy.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher-fancy/br.com.finalcraft.launcher-fancy.test.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher-fancy/br.com.finalcraft.launcher-fancy.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher/br.com.finalcraft.launcher.main.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher/br.com.finalcraft.launcher.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher/br.com.finalcraft.launcher.test.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher/br.com.finalcraft.launcher.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher-parent.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher-parent.iml" />
     </modules>
   </component>

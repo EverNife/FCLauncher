@@ -5,6 +5,16 @@
       <profile default="true" name="Default" enabled="true" />
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="br.com.finalcraft.creator-tools.main" target="1.8" />
+      <module name="br.com.finalcraft.creator-tools.test" target="1.8" />
+      <module name="br.com.finalcraft.launcher-bootstrap.main" target="1.6" />
+      <module name="br.com.finalcraft.launcher-bootstrap.test" target="1.6" />
+      <module name="br.com.finalcraft.launcher-builder.main" target="1.6" />
+      <module name="br.com.finalcraft.launcher-builder.test" target="1.6" />
+      <module name="br.com.finalcraft.launcher-fancy.main" target="1.6" />
+      <module name="br.com.finalcraft.launcher-fancy.test" target="1.6" />
+      <module name="br.com.finalcraft.launcher.main" target="1.6" />
+      <module name="br.com.finalcraft.launcher.test" target="1.6" />
       <module name="com.skcraft.creator-tools.main" target="1.8" />
       <module name="com.skcraft.creator-tools.test" target="1.8" />
       <module name="com.skcraft.launcher-bootstrap.main" target="1.6" />
